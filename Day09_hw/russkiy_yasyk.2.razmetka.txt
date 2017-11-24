@@ -1,0 +1,1416 @@
+	#	FORM	LEMMA	GRAM	COMMENT	CHECKED	RIGHT1	RIGHT2	RIGHT3	RIGHT4	RIGHT5	RIGHT6	POS	AUTO_LEMMA	AUTO_GRAM	
+33070	1	?	?	PUNC									PUNC	?	PUNC	
+33071	2	?	?	PUNC									PUNC	?	PUNC	
+33072	3	≈лена	≈Ћ≈Ќј	S f anim persn nom sg			а	н	е	л	е		S	≈Ћ≈Ќј	S f anim nom sg	53
+33073	4	@	@	PUNC									PUNC	@	PUNC	19
+33074	5	Ќаверное	Ќј¬≈–Ќќ≈	ADV -			е	о	н	р	е	в	ADV	Ќј¬≈–Ќќ≈	ADV -	
+33075	6	,	,	PUNC									PUNC	,	PUNC	
+33076	7	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33077	8	,	,	PUNC									PUNC	,	PUNC	
+33078	9	самое	—јћџ…	APRO - nom sg plen n -			е	о	м	а	с		A	—јћџ…	A - nom sg plen n -	10
+33079	10	главное	√Ћј¬Ќќ≈	A n supr nom sg			е	о	н	в	а	л	S	√Ћј¬Ќќ≈	S n inan nom sg	
+33080	11	,	,	PUNC									PUNC	,	PUNC	
+33081	12	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33082	13	исчезла	»—„≈«Ќ”“№	V pf praet sg act indic f -			а	л	з	е	ч	с	V	»—„≈«Ќ”“№	V pf praet sg indic f -	
+33083	14	,	,	PUNC									PUNC	,	PUNC	
+33084	15	прежде всего	прежде всего	PARENTH -			о	г	е	с	в	 	-	прежде всего	-	
+33085	16	,	,	PUNC									PUNC	,	PUNC	
+33086	17	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+33087	18	,	,	PUNC									PUNC	,	PUNC	
+33088	19	редактура	–≈ƒј “”–ј	S f inan nom sg			а	р	у	т	к	а	S	–≈ƒј “”–ј	S f inan nom sg	
+33089	20	.	.	SENT									SENT	.	SENT	
+33090																
+33091	1	¬от	¬ќ“	PART			т	о	в				PART	¬ќ“	PART	
+33092	2	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33093	3	каждый	 ј∆ƒџ…	APRO - nom sg plen m -			й	ы	д	ж	а	к	A	 ј∆ƒџ…	A - nom sg plen m -	
+33094	4	раз	–ј«	S m inan nom sg			з	а	р				S	–ј«	S m inan nom sg	
+33095	5	хочу	’ќ“≈“№	V ipf praes sg indic act 1p			у	ч	о	х			V	’ќ“≈“№	V ipf praes sg indic - 1p	
+33096	6	спросить	—ѕ–ќ—»“№	V pf - - inf - -			ь	т	и	с	о	р	V	—ѕ–ќ—»“№	V pf - - inf - -	
+33097	7	:	:	PUNC									PUNC	:	PUNC	
+33098	8	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART	
+33099	9	книжку	 Ќ»∆ ј	S f inan acc sg			у	к	ж	и	н	к	S	 Ќ»∆ ј	S f inan acc sg	
+33100	10	художественную	’”ƒќ∆≈—“¬≈ЌЌџ…	A - acc sg plen f -			ю	у	н	н	е	в	A	’”ƒќ∆≈—“¬≈ЌЌџ…	A - acc sg plen f -	
+33101	11	открываешь	ќ“ –џ¬ј“№	V ipf praes sg indic act 2p			ь	ш	е	а	в	ы	V	ќ“ –џ¬ј“№	V ipf praes sg indic - 2p	
+33102	12	,	,	PUNC									PUNC	,	PUNC	
+33103	13	и	»	CONJ			и						CONJ	»	CONJ	87
+33104	14	огромное	ќ√–ќћЌџ…	A - nom sg plen n -			е	о	н	м	о	р	A	ќ√–ќћЌџ…	A - nom sg plen n -	
+33105	15	количество	 ќЋ»„≈—“¬ќ	S acc sg n inan			о	в	т	с	е	ч	S	 ќЋ»„≈—“¬ќ	S n inan nom sg	11
+33106	16	стилистических	—“»Ћ»—“»„≈— »…	A - gen pl plen - -			х	и	к	с	е	ч	A	—“»Ћ»—“»„≈— »…	A - gen pl plen - -	
+33107	17	и	»	CONJ			и						CONJ	»	CONJ	
+33108	18	грамматических	√–јћћј“»„≈— »…	A - gen pl plen - -			х	и	к	с	е	ч	A	√–јћћј“»„≈— »…	A - gen pl plen - -	
+33109	19	ошибок	ќЎ»Ѕ ј	S f inan gen pl			к	о	б	и	ш	о	S	ќЎ»Ѕ ј	S f inan gen pl	
+33110	20	.	.	SENT									SENT	.	SENT	
+33111																
+33112	1	¬ообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -	
+33113	2	у	”	PR			у						PR	”	PR	
+33114	3	нас	ћџ	SPRO pl 1p - gen			с	а	н				SPRO	ћџ	SPRO pl 1p - loc	
+33115	4	есть	Ѕџ“№	V ipf praes sg indic - 3p			ь	т	с	е			V	Ѕџ“№	V ipf praes sg indic - 3p	
+33116	5	редакторы	–≈ƒј “ќ–	S m anim nom pl			ы	р	о	т	к	а	S	–≈ƒј “ќ–	S m anim nom pl	
+33117	6	или	»Ћ»	CONJ			и	л	и				CONJ	»Ћ»	CONJ	
+33118	7	их	ќЌ»	SPRO gen pl anim - -			х	и					A	»’	A - nonflex nonflex plen - -	
+33119	8	все-таки	¬—≈-“ј »	PART			и	к	а	т		е	PART	¬—≈-“ј »	PART	
+33120	9	нет	Ќ≈“	PRAEDIC -			т	е	н				PART	Ќ≈“	PART	13
+33121	10	?	?	SENT									SENT	?	SENT	
+33122																
+33123	1	»	»	CONJ			и						CONJ	»	CONJ	
+33124	2	готовит	√ќ“ќ¬»“№	V ipf praes sg indic - 3p			т	и	в	о	т	о	V	√ќ“ќ¬»“№	V ipf praes sg indic - 3p	
+33125	3	ли	Ћ»	PART			и	л					PART	Ћ»	PART	
+33126	4	их	ќЌ»	SPRO pl - - acc			х	и					SPRO	ќЌ»	SPRO pl - - acc	
+33127	5	какой-то	 ј ќ…-“ќ	APRO - nom sg plen m -			о	т		й	о	к	A	 ј ќ…-“ќ	A - nom sg plen m -	
+33128	6	институт	»Ќ—“»“”“	S m inan nom sg			т	у	т	и	т	с	S	»Ќ—“»“”“	S m inan nom sg	
+33129	7	,	,	PUNC									PUNC	,	PUNC	
+33130	8	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+33131	9	это	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	47
+33132	10	делалось	ƒ≈Ћј“№—я	V ipf praet pass sg indic n -			ь	с	о	л	а	л	V	ƒ≈Ћј“№—я	V ipf praet sg indic n -	
+33133	11	раньше	–јЌќ	ADV comp			е	ш	ь	н	а	р	ADV	–јЌќ	ADV comp	26
+33134	12	?	?	SENT									SENT	?	SENT	
+33135																
+33136	1	я	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33137	2	думаю	ƒ”ћј“№	V ipf praes sg indic - 1p			ю	а	м	у	д		V	ƒ”ћј“№	V ipf praes sg indic - 1p	
+33138	3	,	,	PUNC									PUNC	,	PUNC	
+33139	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33140	5	,	,	PUNC									PUNC	,	PUNC	
+33141	6	наверное	Ќј¬≈–Ќќ≈	ADV -			е	о	н	р	е	в	ADV	Ќј¬≈–Ќќ≈	ADV -	
+33142	7	,	,	PUNC									PUNC	,	PUNC	
+33143	8	уже	”∆≈	ADV -			е	ж	у				ADV	”∆≈	ADV -	
+33144	9	оно	ќЌќ	SPRO sg 3p n nom			о	н	о				SPRO	ќЌќ	SPRO sg 3p n nom	
+33145	10	отсутствует	ќ“—”“—“¬ќ¬ј“№	V ipf praes sg indic act 3p			т	е	у	в	т	с	V	ќ“—”“—“¬ќ¬ј“№	V ipf praes sg indic - 3p	
+33146	11	,	,	PUNC									PUNC	,	PUNC	
+33147	12	напрочь	Ќјѕ–ќ„№	ADV -			ь	ч	о	р	п	а	ADV	Ќјѕ–ќ„№	ADV -	
+33148	13	,	,	PUNC									PUNC	,	PUNC	
+33149	14	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+33150	15	класс	 Ћј——	S m inan nom sg			с	с	а	л	к		S	 Ћј——	S m inan nom sg	
+33151	16	.	.	SENT									SENT	.	SENT	
+33152																
+33153	1	Ќо	Ќќ	CONJ			о	н					CONJ	Ќќ	CONJ	
+33154	2	<	<	PUNC									PUNC	<	PUNC	
+33155	3	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33156	4	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33157	5	=	=	PUNC									PUNC	=	PUNC	
+33158	6			_											_	24
+33159	7	грамотнсь	√–јћќ“Ќќ—“№	S f inan nom sg	distort		ь	с	н	т	о	м	S	√–јћќ“Ќ—№	S m anim nom sg	
+33160	8			_											_	
+33161	9	>	>	PUNC									PUNC	>	PUNC	
+33162	10	грамотность	√–јћќ“Ќќ—“№	S f inan nom sg			ь	т	с	о	н	т	S	√–јћќ“Ќќ—“№	S f inan nom sg	
+33163	11	<	<	PUNC									PUNC	<	PUNC	
+33164	12	/	/	PUNC									PUNC	/	PUNC	
+33165	13	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33166	14	>	>	PUNC									PUNC	>	PUNC	
+33167	15	-	-	PUNC									PUNC	-	PUNC	
+33168	16	это	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+33169	17	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -	
+33170	18	полбеды	ѕќЋЅ≈ƒџ	PRAEDIC -			ы	д	е	б	л	о	ADV	ѕќЋЅ≈ƒџ	ADV -	
+33171	19	.	.	SENT									SENT	.	SENT	
+33172																24
+33173	1	ј	ј	CONJ			а						CONJ	ј	CONJ	
+33174	2	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33175	3	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33176	4	идешь	»ƒ“»	V ipf praes sg indic - 2p			ь	ш	е	д	и		V	»ƒ“»	V ipf praes sg indic - 2p	106
+33177	5	по	ѕќ	PR			о	п					PR	ѕќ	PR	
+33178	6	улице	”Ћ»÷ј	S f inan loc sg			е	ц	и	л	у		S	”Ћ»÷ј	S f inan loc sg	
+33179	7	и	»	CONJ			и						CONJ	»	CONJ	
+33180	8	слышишь	—ЋџЎј“№	V ipf praes sg indic act 2p			ь	ш	и	ш	ы	л	V	—ЋџЎј“№	V ipf praes sg indic - 2p	
+33181	9	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+33182	10	говор€т	√ќ¬ќ–»“№	V ipf praes pl indic - 3p			т	€	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes pl indic - 3p	
+33183	11	окружающие	ќ –”∆јёў»…	A - nom pl plen - anim			е	и	щ	ю	а	ж	A	ќ –”∆јёў»…	A - acc pl plen - inan	
+33184	12	теб€	“џ	SPRO sg 2p - acc			€	б	е	т			SPRO	“џ	SPRO sg 2p - acc	
+33185	13	люди	„≈Ћќ¬≈ 	S m anim nom pl			и	д	ю	л			S	„≈Ћќ¬≈ 	S m anim nom pl	
+33186	14	...	...	SENT									SENT	...	SENT	
+33187																
+33188	1	Ёто	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+33189	2	катастрофа	 ј“ј—“–ќ‘ј	S f inan nom sg			а	ф	о	р	т	с	S	 ј“ј—“–ќ‘ј	S f inan nom sg	
+33190	3	.	.	SENT									SENT	.	SENT	
+33191																
+33192	1	ћало	ћјЋќ	ADV -			о	л	а	м			ADV	ћјЋќ	ADV -	
+33193	2	того	“ќ	SPRO n - gen sg			о	г	о	т			S	“ќ	S n - gen sg	
+33194	3	,	,	PUNC									PUNC	,	PUNC	
+33195	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33196	5	у...	”	PR	distort					у			PR	”...	PR	8
+33197	6	э..	Ё	INTJ					э				S	Ё..	S - - nonflex nonflex	47
+33198	7	у	”	PR			у						PR	”	PR	
+33199	8	половины	ѕќЋќ¬»Ќј	S f inan gen sg			ы	н	и	в	о	л	S	ѕќЋќ¬»Ќј	S f inan gen sg	
+33200	9	из	»«	PR			з	и					PR	»«	PR	
+33201	10	русской	–”—— »…	A - gen sg plen f -			й	о	к	с	с	у	A	–”—— »…	A - gen sg plen f -	
+33202	11	речи	–≈„№	S f inan gen sg			и	ч	е	р			S	–≈„№	S f inan gen sg	
+33203	12	остаютс€	ќ—“ј¬ј“№—я	V ipf praes pl indic - 3p			€	с	т	ю	а	т	V	ќ—“ј¬ј“№—я	V ipf praes pl indic - 3p	
+33204	13	только	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART	
+33205	14	местоимени€	ћ≈—“ќ»ћ≈Ќ»≈	S n inan nom pl			€	и	н	е	м	и	S	ћ≈—“ќ»ћ≈Ќ»≈	S n inan gen sg	
+33206	15	,	,	PUNC									PUNC	,	PUNC	
+33207	16	предлоги	ѕ–≈ƒЋќ√	S m inan nom pl			и	г	о	л	д	е	S	ѕ–≈ƒЋќ√	S m inan nom pl	
+33208	17	и	»	CONJ			и						CONJ	»	CONJ	
+33209	18	союзы	—ќё«	S m inan nom pl			ы	з	ю	о	с		S	—ќё«	S m inan nom pl	
+33210	19	.	.	SENT									SENT	.	SENT	
+33211																
+33212	1	¬се	¬—≈	SPRO inan  - - nom pl			е	с	в				S	¬—≈	S - - nom pl	
+33213	2	остальное	ќ—“јЋ№Ќќ≈	A n inan nom sg			е	о	н	ь	л	а	S	ќ—“јЋ№Ќќ≈	S n inan acc sg	
+33214	3	,	,	PUNC									PUNC	,	PUNC	
+33215	4	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33216	5	,	,	PUNC									PUNC	,	PUNC	
+33217	6	в	¬	PR			в						PR	¬	PR	
+33218	7	лучшем	Ћ”„Ў»…	A supr loc sg plen m -			м	е	ш	ч	у	л	A	Ћ”„Ў»…	A supr loc sg plen m -	
+33219	8	случае	—Ћ”„ј…	S m inan loc sg			е	а	ч	у	л	с	S	—Ћ”„ј…	S m inan loc sg	
+33220	9	-	-	PUNC									PUNC	-	PUNC	
+33221	10	русский	–”—— »…	A - nom sg plen m -			й	и	к	с	с	у	A	–”—— »…	A - nom sg plen m -	
+33222	11	мат	ћј“	S m inan nom sg			т	а	м				S	ћј“	S m inan nom sg	
+33223	12	,	,	PUNC									PUNC	,	PUNC	
+33224	13	в	¬	PR			в						PR	¬	PR	
+33225	14	худшем	’”ƒЎ»…	A supr loc sg plen m -			м	е	ш	д	у	х	A	’”ƒЎ»…	A supr loc sg plen m -	
+33226	15	-	-	PUNC									PUNC	-	PUNC	
+33227	16	вообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -	
+33228	17	непон€тно	Ќ≈ѕќЌя“Ќќ	ADV -			о	н	т	€	н	о	ADV	Ќ≈ѕќЌя“Ќќ	ADV -	9
+33229	18	что	„“ќ	SPRO n - acc sg			о	т	ч				S	„“ќ	S n - acc sg	
+33230	19	.	.	SENT									SENT	.	SENT	
+33231																
+33232	1	 омментатор	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg			р	о	т	а	т	н	S	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg	
+33233	2	@	@	PUNC									PUNC	@	PUNC	
+33234	3	<	<	PUNC									PUNC	<	PUNC	
+33235	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33236	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33237	6	=	=	PUNC									PUNC	=	PUNC	
+33238	7			_											_	
+33239	8	≈сь	Ѕџ“№	V ipf praes sg indic - 3p			ь	с	е				S	≈—№	S m anim nonflex nonflex	
+33240	9			_											_	
+33241	10	>	>	PUNC									PUNC	>	PUNC	
+33242	11	≈сть	Ѕџ“№	V ipf praes sg indic - 3p			ь	т	с	е			V	Ѕџ“№	V ipf praes sg indic - 3p	6
+33243	12	<	<	PUNC									PUNC	<	PUNC	
+33244	13	/	/	PUNC									PUNC	/	PUNC	
+33245	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33246	15	>	>	PUNC									PUNC	>	PUNC	
+33247	16	такое	“ј ќ…	APRO - nom sg plen n inan			е	о	к	а	т		A	“ј ќ…	A - nom sg plen n -	
+33248	17	...	...	SENT									SENT	...	SENT	
+33249																
+33250	1	≈лена	≈Ћ≈Ќј	S f anim persn nom sg			а	н	е	л	е		S	≈Ћ≈Ќј	S f anim nom sg	
+33251	2	@	@	PUNC									PUNC	@	PUNC	19
+33252	3	ѕоэтому...	ѕќЁ“ќћ”...	CONJ -						у	м	о	ADV	ѕќЁ“ќћ”...	ADV -	
+33253	4	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33254	5	,	,	PUNC									PUNC	,	PUNC	
+33255	6	вообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -	
+33256	7	стоит	—“ќ»“№	V ipf praes sg indic act 3p			т	и	о	т	с		V	—“ќя“№	V ipf praes sg indic - 3p	
+33257	8	беспокоитьс€	Ѕ≈—ѕќ ќ»“№—я	V ipf - - inf - -			€	с	ь	т	и	о	V	Ѕ≈—ѕќ ќ»“№—я	V ipf - - inf - -	
+33258	9	уже	”∆≈	ADV -			е	ж	у				ADV	”∆≈	ADV -	
+33259	10	за	«ј	PR			а	з					PR	«ј	PR	
+33260	11	сохранение	—ќ’–јЌ≈Ќ»≈	S n inan acc sg			е	и	н	е	н	а	S	—ќ’–јЌ≈Ќ»≈	S n inan acc sg	
+33261	12	русского	–”—— »…	A - gen sg plen m -			о	г	о	к	с	с	A	–”—— »…	A - gen sg plen m -	
+33262	13	€зыка	я«џ 	S m inan gen sg			а	к	ы	з	€		S	я«џ 	S m inan gen sg	
+33263	14	,	,	PUNC									PUNC	,	PUNC	
+33264	15	хот€	’ќ“я	CONJ			€	т	о	х			CONJ	’ќ“я	CONJ	
+33265	16	,	,	PUNC									PUNC	,	PUNC	
+33266	17	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+33267	18	говор€т	√ќ¬ќ–»“№	V ipf praes pl indic - 3p			т	€	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes pl indic - 3p	9
+33268	19	,	,	PUNC									PUNC	,	PUNC	
+33269	20	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33270	21	€зык	я«џ 	S m inan nom sg			к	ы	з	€			S	я«џ 	S m inan nom sg	
+33271	22	-	-	PUNC									PUNC	-	PUNC	
+33272	23	это	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+33273	24	живой	∆»¬ќ…	A - nom sg plen m -			й	о	в	и	ж		A	∆»¬ќ…	A - nom sg plen m -	
+33274	25	организм	ќ–√јЌ»«ћ	S m inan nom sg			м	з	и	н	а	г	S	ќ–√јЌ»«ћ	S m inan nom sg	
+33275	26	,	,	PUNC									PUNC	,	PUNC	
+33276	27	который	 ќ“ќ–џ…	A - nom sg plen m -			й	ы	р	о	т	о	A	 ќ“ќ–џ…	A - nom sg plen m -	
+33277	28	развиваетс€	–ј«¬»¬ј“№—я	V ipf praes sg indic act 3p			€	с	т	е	а	в	V	–ј«¬»¬ј“№—я	V ipf praes sg indic - 3p	
+33278	29	,	,	PUNC									PUNC	,	PUNC	
+33279	30	но	Ќќ	CONJ			о	н					CONJ	Ќќ	CONJ	
+33280	31	очень	ќ„≈Ќ№	ADV -			ь	н	е	ч	о		ADV	ќ„≈Ќ№	ADV -	
+33281	32	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33282	33	хочетс€	’ќ“≈“№—я	V ipf praes sg indic med -			€	с	т	е	ч	о	V	’ќ“≈“№—я	V ipf praes - indic - -	
+33283	34	,	,	PUNC									PUNC	,	PUNC	
+33284	35	чтобы	„“ќЅџ	CONJ			ы	б	о	т	ч		CONJ	„“ќЅџ	CONJ	
+33285	36	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	15
+33286	37	развивалс€	–ј«¬»¬ј“№—я	V ipf praet sg indic m act			€	с	л	а	в	и	V	–ј«¬»¬ј“№—я	V ipf praet sg indic m -	
+33287	38	именно	»ћ≈ЌЌќ	PART			о	н	н	е	м	и	PART	»ћ≈ЌЌќ	PART	
+33288	39	в	¬	PR			в						PR	¬	PR	
+33289	40	этом	Ё“ќ“	SPRO - loc sg plen n -			м	о	т	э			A	Ё“ќ“	A - loc sg plen n -	
+33290	41	направлении	Ќјѕ–ј¬Ћ≈Ќ»≈	S n inan loc sg			и	и	н	е	л	в	S	Ќјѕ–ј¬Ћ≈Ќ»≈	S n inan loc sg	
+33291	42	.	.	SENT									SENT	.	SENT	
+33292																
+33293	1	ќчень	ќ„≈Ќ№	ADV -			ь	н	е	ч	о		ADV	ќ„≈Ќ№	ADV -	
+33294	2	грустно	√–”—“Ќќ	PRAEDIC -			о	н	т	с	у	р	ADV	√–”—“Ќќ	ADV -	
+33295	3	,	,	PUNC									PUNC	,	PUNC	
+33296	4	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33297	5	развитие	–ј«¬»“»≈	S n inan nom sg			е	и	т	и	в	з	S	–ј«¬»“»≈	S n inan nom sg	
+33298	6	происходит	ѕ–ќ»—’ќƒ»“№	V ipf praes sg indic act 3p			т	и	д	о	х	с	V	ѕ–ќ»—’ќƒ»“№	V ipf praes sg indic - 3p	
+33299	7	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33300	8	в	¬	PR			в						PR	¬	PR	
+33301	9	стиле	—“»Ћ№	S m inan loc sg			е	л	и	т	с		S	—“»Ћ№	S m inan loc sg	
+33302	10	ѕушкина	ѕ”Ў »Ќ	S m anim famn gen sg			а	н	и	к	ш	у	S	ѕ”Ў »Ќ	S m anim gen sg	
+33303	11	,	,	PUNC									PUNC	,	PUNC	
+33304	12	“олстого	“ќЋ—“ќ…	S m anim famn gen sg			о	г	о	т	с	л	S	“ќЋ—“ќ…	S m anim gen sg	
+33305	13	,	,	PUNC									PUNC	,	PUNC	
+33306	14	<	<	PUNC									PUNC	<	PUNC	
+33307	15	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33308	16	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33309	17	=	=	PUNC									PUNC	=	PUNC	
+33310	18			_											_	
+33311	19	аа	ј	INTJ			а	а					NONLEX	јј	NONLEX	
+33312	20			_											_	
+33313	21	>	>	PUNC									PUNC	>	PUNC	
+33314	22	а	ј	CONJ			а						CONJ	ј	CONJ	
+33315	23	<	<	PUNC									PUNC	<	PUNC	
+33316	24	/	/	PUNC									PUNC	/	PUNC	
+33317	25	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33318	26	>	>	PUNC									PUNC	>	PUNC	
+33319	27	в	¬	PR			в						PR	¬	PR	
+33320	28	стиле	—“»Ћ№	S m inan loc sg			е	л	и	т	с		S	—“»Ћ№	S m inan loc sg	
+33321	29	Ўарикова	Ўј–» ќ¬	S m anim famn gen sg			а	в	о	к	и	р	S	Ўј–» ќ¬ј	S m anim gen sg	
+33322	30	.	.	SENT									SENT	.	SENT	
+33323																37
+33324	1	 омментатор	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg			р	о	т	а	т	н	S	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg	
+33325	2	@	@	PUNC									PUNC	@	PUNC	
+33326	3	Ќу	Ќ”	INTJ			у	н					PART	Ќ”	PART	
+33327	4	просто	ѕ–ќ—“ќ	PART			о	т	с	о	р	п	PART	ѕ–ќ—“ќ	PART	
+33328	5	есть	Ѕџ“№	V ipf praes sg indic - 3p			ь	т	с	е			V	Ѕџ“№	V ipf praes sg indic - 3p	
+33329	6	же	∆≈	PART			е	ж					PART	∆≈	PART	
+33330	7	очень	ќ„≈Ќ№	ADV -			ь	н	е	ч	о		ADV	ќ„≈Ќ№	ADV -	
+33331	8	большое	ЅќЋ№Ўќ…	A - nom sg plen n -			е	о	ш	ь	л	о	A	ЅќЋ№Ўќ…	A - nom sg plen n -	6
+33332	9	разделение	–ј«ƒ≈Ћ≈Ќ»≈	S n inan nom sg			е	и	н	е	л	е	S	–ј«ƒ≈Ћ≈Ќ»≈	S n inan nom sg	
+33333	10	между	ћ≈∆ƒ”	PR			у	д	ж	е	м		PR	ћ≈∆ƒ”	PR	
+33334	11	тем	“ќ	SPRO n - ins sg			м	е	т				S	“ќ	S n - ins sg	
+33335	12	:	:	PUNC									PUNC	:	PUNC	
+33336	13			_											_	
+33337	14	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART	
+33338	15	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33339	16	знаю	«Ќј“№	V ipf praes sg indic - 1p			ю	а	н	з			V	«Ќј“№	V ipf praes sg indic - 1p	
+33340	17	,	,	PUNC									PUNC	,	PUNC	
+33341	18	как	 ј 	ADV -			к	а	к				ADV	 ј 	ADV -	
+33342	19	нужно	Ќ”∆Ќќ	PRAEDIC -			о	н	ж	у	н		ADV	Ќ”∆Ќќ	ADV -	
+33343	20	сейчас	—≈…„ј—	ADV -			с	а	ч	й	е	с	ADV	—≈…„ј—	ADV -	
+33344	21			_											_	37
+33345	22	<	<	PUNC									PUNC	<	PUNC	
+33346	23	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33347	24	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33348	25	=	=	PUNC									PUNC	=	PUNC	
+33349	26			_											_	
+33350	27	ии	»	CONJ			и	и					S	»я	S f anim loc sg	
+33351	28			_											_	
+33352	29	>	>	PUNC									PUNC	>	PUNC	
+33353	30	и	»	CONJ			и						CONJ	»	CONJ	
+33354	31	<	<	PUNC									PUNC	<	PUNC	
+33355	32	/	/	PUNC									PUNC	/	PUNC	
+33356	33	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33357	34	>	>	PUNC									PUNC	>	PUNC	
+33358	35			_											_	
+33359	36	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33360	37	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33361	38	задумываюсь	«јƒ”ћџ¬ј“№—я	V ipf praes sg indic act 1p			ь	с	ю	а	в	ы	V	«јƒ”ћџ¬ј“№—я	V ipf praes sg indic - 1p	
+33362	39	об	ќЅ	PR			б	о					PR	ќЅ	PR	
+33363	40	этом	Ё“ќ	APRO n - loc sg			м	о	т	э			S	Ё“ќ	S n - loc sg	
+33364	41	,	,	PUNC									PUNC	,	PUNC	
+33365	42	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33366	43	,	,	PUNC									PUNC	,	PUNC	
+33367	44	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+33368	45	,	,	PUNC									PUNC	,	PUNC	
+33369	46	разговариваю	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic act 1p			ю	а	в	и	р	а	V	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic - 1p	
+33370	47	с	—	PR			с						PR	—	PR	
+33371	48	друзь€ми	ƒ–”√	S m anim ins pl			и	м	€	ь	з	у	S	ƒ–”√	S m anim ins pl	
+33372	49			_											_	
+33373	50	.	.	SENT									SENT	.	SENT	
+33374																
+33375	1	<	<	PUNC									PUNC	<	PUNC	
+33376	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33377	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33378	4	=	=	PUNC									PUNC	=	PUNC	
+33379	5			_											_	
+33380	6	“ость	“ќ ≈—“№	S f anim acc sg	distort		ь	т	с	о	т		S	“ќ—“№	S f anim acc sg	
+33381	7			_											_	
+33382	8	>	>	PUNC									PUNC	>	PUNC	
+33383	9	“о есть	“ќ ≈—“№	PART			ь	т	с	е	 	о	-	“о есть	-	
+33384	10	<	<	PUNC									PUNC	<	PUNC	
+33385	11	/	/	PUNC									PUNC	/	PUNC	
+33386	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33387	13	>	>	PUNC									PUNC	>	PUNC	
+33388	14	,	,	PUNC									PUNC	,	PUNC	
+33389	15	возможно	¬ќ«ћќ∆Ќќ	ADV -			о	н	ж	о	м	з	ADV	¬ќ«ћќ∆Ќќ	ADV -	
+33390	16	,	,	PUNC									PUNC	,	PUNC	
+33391	17	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom	
+33392	18	и	»	CONJ			и						CONJ	»	CONJ	
+33393	19	знают	«Ќј“№	V ipf praes pl indic - 3p			т	ю	а	н	з		V	«Ќј“№	V ipf praes pl indic - 3p	
+33394	20	,	,	PUNC									PUNC	,	PUNC	
+33395	21	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+33396	22	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33397	23	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+33398	24	,	,	PUNC									PUNC	,	PUNC	
+33399	25	но	Ќќ	CONJ			о	н					CONJ	Ќќ	CONJ	
+33400	26	<	<	PUNC									PUNC	<	PUNC	
+33401	27	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33402	28	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33403	29	=	=	PUNC									PUNC	=	PUNC	
+33404	30			_											_	
+33405	31	ни	Ќ»	PART			и	н					PART	Ќ»	PART	
+33406	32			_											_	
+33407	33	>	>	PUNC									PUNC	>	PUNC	
+33408	34	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom	
+33409	35	<	<	PUNC									PUNC	<	PUNC	
+33410	36	/	/	PUNC									PUNC	/	PUNC	
+33411	37	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33412	38	>	>	PUNC									PUNC	>	PUNC	
+33413	39	совершенно	—ќ¬≈–Ў≈ЌЌќ	ADV -			о	н	н	е	ш	р	ADV	—ќ¬≈–Ў≈ЌЌќ	ADV -	
+33414	40	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33415	41	используют	»—ѕќЋ№«ќ¬ј“№	V ipf praes pl act indic - 3p			т	ю	у	з	ь	л	V	»—ѕќЋ№«ќ¬ј“№	V ipf praes pl indic - 3p	
+33416	42	это	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+33417	43	в	¬	PR			в						PR	¬	PR	
+33418	44	речи	–≈„№	S f inan loc sg			и	ч	е	р			S	–≈„№	S f inan gen sg	
+33419	45	.	.	SENT									SENT	.	SENT	
+33420																
+33421	1	≈лена	≈Ћ≈Ќј	S f anim persn nom sg			а	н	е	л	е		S	≈Ћ≈Ќј	S f anim nom sg	53
+33422	2	@	@	PUNC									PUNC	@	PUNC	
+33423	3	Ќа	Ќј	PR			а	н					PR	Ќј	PR	
+33424	4	мой	ћќ…	APRO - acc sg plen m inan			й	о	м				A	ћќ…	A - acc sg plen m inan	
+33425	5	взгл€д	¬«√Ћяƒ	S m inan acc sg			д	€	л	г	з	в	S	¬«√Ћяƒ	S m inan acc sg	
+33426	6	,	,	PUNC									PUNC	,	PUNC	
+33427	7	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33428	8	,	,	PUNC									PUNC	,	PUNC	
+33429	9	пон€тие	ѕќЌя“»≈	S n inan nom sg			е	и	т	€	н	о	S	ѕќЌя“»≈	S n inan nom sg	
+33430	10	интеллигентности	»Ќ“≈ЋЋ»√≈Ќ“Ќќ—“№	S f inan gen sg			и	т	с	о	н	т	S	»Ќ“≈ЋЋ»√≈Ќ“Ќќ—“№	S f inan gen sg	
+33431	11	,	,	PUNC									PUNC	,	PUNC	
+33432	12	которое	 ќ“ќ–џ…	A - nom sg plen n -			е	о	р	о	т	о	A	 ќ“ќ–џ…	A - nom sg plen n -	
+33433	13	сейчас	—≈…„ј—	ADV -			с	а	ч	й	е	с	ADV	—≈…„ј—	ADV -	
+33434	14	почему-то	ѕќ„≈ћ”-“ќ	ADV -			о	т		у	м	е	ADV	ѕќ„≈ћ”-“ќ	ADV -	18
+33435	15	вообще	¬ќќЅў≈	ADV -			е	щ	б	о	о	в	ADV	¬ќќЅў≈	ADV -	
+33436	16	абсолютно	јЅ—ќЋё“Ќќ	ADV -			о	н	т	ю	л	о	ADV	јЅ—ќЋё“Ќќ	ADV -	
+33437	17	исчезло	»—„≈«Ќ”“№	V pf praet sg act indic n -			о	л	з	е	ч	с	V	»—„≈«Ќ”“№	V pf praet sg indic n -	
+33438	18	и	»	CONJ			и						CONJ	»	CONJ	
+33439	19	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33440	20	используетс€	»—ѕќЋ№«ќ¬ј“№—я	V ipf praes sg pass indic - 3p			€	с	т	е	у	з	V	»—ѕќЋ№«ќ¬ј“№—я	V ipf praes sg indic - 3p	
+33441	21	,	,	PUNC									PUNC	,	PUNC	
+33442	22	состоит	—ќ—“ќя“№	V ipf praes sg indic act 3p			т	и	о	т	с	о	V	—ќ—“ќя“№	V ipf praes sg indic - 3p	42
+33443	23	в	¬	PR			в						PR	¬	PR	
+33444	24	том	“ќ	SPRO n - loc sg			м	о	т				S	“ќ	S n - loc sg	
+33445	25	,	,	PUNC									PUNC	,	PUNC	
+33446	26	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33447	27	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33448	28	всегда	¬—≈√ƒј	ADV -			а	д	г	е	с	в	ADV	¬—≈√ƒј	ADV -	
+33449	29	говоришь	√ќ¬ќ–»“№	V ipf praes sg indic - 2p			ь	ш	и	р	о	в	V	√ќ¬ќ–»“№	V ipf praes sg indic - 2p	
+33450	30	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+33451	31	.	.	SENT									SENT	.	SENT	
+33452																
+33453	1	Ќе	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33454	2	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33455	3	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33456	4	знаешь	«Ќј“№	V ipf praes sg indic - 2p			ь	ш	е	а	н	з	V	«Ќј“№	V ipf praes sg indic - 2p	
+33457	5	,	,	PUNC									PUNC	,	PUNC	
+33458	6	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33459	7	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33460	8	говорить	√ќ¬ќ–»“№	V ipf - - inf - -			ь	т	и	р	о	в	V	√ќ¬ќ–»“№	V ipf - - inf - -	9
+33461	9	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+33462	10	,	,	PUNC									PUNC	,	PUNC	
+33463	11	а	ј	CONJ			а						CONJ	ј	CONJ	
+33464	12	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33465	13	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33466	14	общаешьс€	ќЅўј“№—я	V ipf praes sg indic act 2p			€	с	ь	ш	е	а	V	ќЅўј“№—я	V ipf praes sg indic - 2p	
+33467	15	со	—ќ	PR			о	с					PR	—ќ	PR	
+33468	16	своими	—¬ќ…	APRO - ins pl plen - -			и	м	и	о	в	с	A	—¬ќ…	A - ins pl plen - -	
+33469	17	друзь€ми	ƒ–”√	S m anim ins pl			и	м	€	ь	з	у	S	ƒ–”√	S m anim ins pl	
+33470	18	,	,	PUNC									PUNC	,	PUNC	
+33471	19	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33472	20	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33473	21	общаешьс€	ќЅўј“№—я	V ipf praes sg indic act 2p			€	с	ь	ш	е	а	V	ќЅўј“№—я	V ipf praes sg indic - 2p	
+33474	22	со	—ќ	PR			о	с					PR	—ќ	PR	
+33475	23	своими	—¬ќ…	A - ins pl plen - -			и	м	и	о	в	с	A	—¬ќ…	A - ins pl plen - -	
+33476	24	родственниками	–ќƒ—“¬≈ЌЌ» 	S m anim ins pl			и	м	а	к	и	н	S	–ќƒ—“¬≈ЌЌ» 	S m anim ins pl	
+33477	25	,	,	PUNC									PUNC	,	PUNC	
+33478	26	<	<	PUNC									PUNC	<	PUNC	
+33479	27	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33480	28	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33481	29	=	=	PUNC									PUNC	=	PUNC	
+33482	30			_											_	
+33483	31	ѕрстить	ѕ–ќ—“»“№	V ipf - - inf - -	distort		ь	т	и	т	с	р	V	ѕ–—“»“№	V ipf - - inf - -	
+33484	32			_											_	
+33485	33	>	>	PUNC									PUNC	>	PUNC	
+33486	34	ѕростите	ѕ–ќ—“»“№	V pf fut pl indic imper 2p			е	т	и	т	с	о	V	ѕ–ќ—“»“№	V pf fut pl indic - 2p	
+33487	35	<	<	PUNC									PUNC	<	PUNC	
+33488	36	/	/	PUNC									PUNC	/	PUNC	
+33489	37	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33490	38	>	>	PUNC									PUNC	>	PUNC	
+33491	39	,	,	PUNC									PUNC	,	PUNC	
+33492	40	даже	ƒј∆≈	PART			е	ж	а	д			PART	ƒј∆≈	PART	
+33493	41	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33494	42	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+33495	43	со	—ќ	PR			о	с					PR	—ќ	PR	
+33496	44	своей	—¬ќ…	A - ins sg plen f -			й	е	о	в	с		A	—¬ќ…	A - ins sg plen f -	
+33497	45	кошкой	 ќЎ ј	S f anim ins sg			й	о	к	ш	о	к	S	 ќЎ ј	S f anim ins sg	
+33498	46	общаешьс€	ќЅўј“№—я	V ipf praes sg indic act 2p			€	с	ь	ш	е	а	V	ќЅўј“№—я	V ipf praes sg indic - 2p	
+33499	47	,	,	PUNC									PUNC	,	PUNC	
+33500	48	все равно	все равно	-	раздельно		о	н	в	а	р	 	-	все равно	-	
+33501	49	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33502	50	говорить	√ќ¬ќ–»“№	V ipf - - inf - -			ь	т	и	р	о	в	V	√ќ¬ќ–»“№	V ipf - - inf - -	
+33503	51	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+33504	52	.	.	SENT									SENT	.	SENT	
+33505																
+33506	1	ћен€	я	SPRO sg 1p - acc			€	н	е	м			SPRO	я	SPRO sg 1p - acc	
+33507	2	<	<	PUNC									PUNC	<	PUNC	
+33508	3	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33509	4	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33510	5	=	=	PUNC									PUNC	=	PUNC	31
+33511	6			_											_	
+33512	7	вседа	¬—≈√ƒј	ADV -	distort		а	д	е	с	в		S	¬—≈ƒ	S m inan gen sg	
+33513	8			_											_	
+33514	9	>	>	PUNC									PUNC	>	PUNC	
+33515	10	всегда	¬—≈√ƒј	ADV -			а	д	г	е	с	в	ADV	¬—≈√ƒј	ADV -	
+33516	11	<	<	PUNC									PUNC	<	PUNC	12
+33517	12	/	/	PUNC									PUNC	/	PUNC	
+33518	13	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33519	14	>	>	PUNC									PUNC	>	PUNC	
+33520	15	страшно	—“–јЎЌќ	ADV -			о	н	ш	а	р	т	ADV	—“–јЎЌќ	ADV -	
+33521	16	умил€ло	”ћ»Ћя“№	V ipf praet sg indic n act			о	л	€	л	и	м	V	”ћ»Ћя“№	V ipf praet sg indic n -	
+33522	17	,	,	PUNC									PUNC	,	PUNC	
+33523	18	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33524	19	,	,	PUNC									PUNC	,	PUNC	
+33525	20	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	
+33526	21	рождаетс€	–ќ∆ƒј“№—я	V ipf praes sg indic med 3p			€	с	т	е	а	д	V	–ќ∆ƒј“№—я	V ipf praes sg indic - 3p	
+33527	22	ребенок	–≈Ѕ≈Ќќ 	S m anim nom sg			к	о	н	е	б	е	S	–≈Ѕ≈Ќќ 	S m anim nom sg	
+33528	23	и	»	CONJ			и						CONJ	»	CONJ	
+33529	24	почему-то	ѕќ„≈ћ”-“ќ	ADV -			о	т		у	м	е	ADV	ѕќ„≈ћ”-“ќ	ADV -	
+33530	25	все	¬—≈	SPRO anim  - - nom pl			е	с	в				S	¬—≈	S - - nom pl	
+33531	26	считают	—„»“ј“№	V ipf praes pl indic act 3p			т	ю	а	т	и	ч	V	—„»“ј“№	V ipf praes pl indic - 3p	
+33532	27	необходимым	Ќ≈ќЅ’ќƒ»ћџ…	A - ins sg plen n -			м	ы	м	и	д	о	A	Ќ≈ќЅ’ќƒ»ћџ…	A - ins sg plen n -	
+33533	28	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+33534	29	с	—	PR			с						PR	—	PR	
+33535	30	ним	ќЌ	SPRO sg 3p m ins			м	и	н				SPRO	ќЌ	SPRO sg 3p m ins	
+33536	31	наа	Ќј	PR			а	а	н				S	Ќјј	S m inan nonflex nonflex	
+33537	32	уровне	”–ќ¬≈Ќ№	S m inan loc sg			е	н	в	о	р	у	S	”–ќ¬≈Ќ№	S m inan loc sg	
+33538	33	:	:	PUNC									PUNC	:	PUNC	
+33539	34	Ђ	Ђ	PUNC									PUNC	Ђ	PUNC	
+33540	35	”ти	”“»	NONLEX	distort		и	т	у				S	”“»	S f inan nonflex nonflex	
+33541	36	-	-	PUNC									PUNC	-	PUNC	
+33542	37	пути	ѕ”“№	NONLEX	слитно		и	т	у	п			S	ѕ”“№	S m inan gen sg	
+33543	38	,	,	PUNC									PUNC	,	PUNC	
+33544	39	сю	—ё	NONLEX	слитно		ю	с					NONLEX	—ё	NONLEX	
+33545	40	-	-	PUNC									PUNC	-	PUNC	
+33546	41	сю	—ё	NONLEX	слитно		ю	с					NONLEX	—ё	NONLEX	
+33547	42	-	-	PUNC									PUNC	-	PUNC	
+33548	43	сю	—ё	NONLEX	слитно		ю	с					NONLEX	—ё	NONLEX	
+33549	44	ї	ї	PUNC									PUNC	ї	PUNC	
+33550	45	.	.	SENT									SENT	.	SENT	
+33551																
+33552	1	„ем	„“ќ	SPRO n inan loc sg			м	е	ч				S	„“ќ	S n inan loc sg	
+33553	2	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	15
+33554	3	-	-	PUNC									PUNC	-	PUNC	
+33555	4	то	“ќ	PART			о	т					NONLEX	“ќ	NONLEX	
+33556	5	<	<	PUNC									PUNC	<	PUNC	
+33557	6	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33558	7	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33559	8	=	=	PUNC									PUNC	=	PUNC	
+33560	9			_											_	
+33561	10	отли	ќ“Ћ№	S m anim nom pl	distort		и	л	т	о			S	ќ“Ћ№	S m anim nom pl	
+33562	11			_											_	
+33563	12	>	>	PUNC									PUNC	>	PUNC	
+33564	13	отличаетс€	ќ“Ћ»„ј“№—я	V ipf praes sg indic act 3p			€	с	т	е	а	ч	V	ќ“Ћ»„ј“№—я	V ipf praes sg indic - 3p	
+33565	14	<	<	PUNC									PUNC	<	PUNC	
+33566	15	/	/	PUNC									PUNC	/	PUNC	
+33567	16	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33568	17	>	>	PUNC									PUNC	>	PUNC	
+33569	18	...	...	SENT									SENT	...	SENT	
+33570																
+33571	1	ќн	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	
+33572	2	-	-	PUNC									PUNC	-	PUNC	
+33573	3	то	“ќ	PART			о	т					PART	“ќ	PART	
+33574	4	откуда	ќ“ ”ƒј	ADV -			а	д	у	к	т	о	ADV	ќ“ ”ƒј	ADV -	
+33575	5	узнает	”«Ќј¬ј“№	V ipf fut sg indic act 3p			т	е	а	н	з	у	V	”«Ќј¬ј“№	V ipf praes sg indic - 3p	
+33576	6	нормальный	Ќќ–ћјЋ№Ќџ…	A - acc sg plen m -			й	ы	н	ь	л	а	A	Ќќ–ћјЋ№Ќџ…	A - nom sg plen m -	
+33577	7	русский	–”—— »…	A - acc sg plen m -			й	и	к	с	с	у	A	–”—— »…	A - nom sg plen m -	
+33578	8	€зык	я«џ 	S m inan acc sg			к	ы	з	€			S	я«џ 	S m inan nom sg	
+33579	9	,	,	PUNC									PUNC	,	PUNC	
+33580	10	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ	
+33581	11	с	—	PR			с						PR	—	PR	
+33582	12	ним	ќЌ	SPRO sg 3p m ins			м	и	н				SPRO	ќЌ	SPRO sg 3p m ins	
+33583	13	так	“ј 	ADV -			к	а	т				ADV	“ј 	ADV -	
+33584	14	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+33585	15	?	?	SENT									SENT	?	SENT	
+33586																
+33587	1	<	<	PUNC									PUNC	<	PUNC	
+33588	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33589	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33590	4	=	=	PUNC									PUNC	=	PUNC	31
+33591	5			_											_	
+33592	6	“ость	“ќ ≈—“№	S f anim acc sg	distort		ь	т	с	о	т		S	“ќ—“№	S f anim acc sg	
+33593	7			_											_	
+33594	8	>	>	PUNC									PUNC	>	PUNC	
+33595	9	“о есть	“ќ ≈—“№	PART			ь	т	с	е	 	о	-	“о есть	-	
+33596	10	<	<	PUNC									PUNC	<	PUNC	
+33597	11	/	/	PUNC									PUNC	/	PUNC	
+33598	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33599	13	>	>	PUNC									PUNC	>	PUNC	
+33600	14	,	,	PUNC									PUNC	,	PUNC	
+33601	15	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+33602	16	,	,	PUNC									PUNC	,	PUNC	
+33603	17	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33604	18	считаю	—„»“ј“№	V ipf praes sg indic act 1p			ю	а	т	и	ч	с	V	—„»“ј“№	V ipf praes sg indic - 1p	
+33605	19	,	,	PUNC									PUNC	,	PUNC	
+33606	20	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33607	21	<	<	PUNC									PUNC	<	PUNC	
+33608	22	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33609	23	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33610	24	=	=	PUNC									PUNC	=	PUNC	
+33611	25			_											_	
+33612	26	иии	»	CONJ			и	и	и				S	»»»	S m inan gen sg	
+33613	27			_											_	
+33614	28	>	>	PUNC									PUNC	>	PUNC	
+33615	29	и	»	CONJ			и						CONJ	»	CONJ	
+33616	30	<	<	PUNC									PUNC	<	PUNC	
+33617	31	/	/	PUNC									PUNC	/	PUNC	
+33618	32	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33619	33	>	>	PUNC									PUNC	>	PUNC	
+33620	34	с	—	PR			с						PR	—	PR	
+33621	35	грудным	√–”ƒЌќ…	A - ins sg plen m -			м	ы	н	д	у	р	A	√–”ƒЌќ…	A - ins sg plen m -	
+33622	36	ребенком	–≈Ѕ≈Ќќ 	S m anim ins sg			м	о	к	н	е	б	S	–≈Ѕ≈Ќќ 	S m inan ins sg	
+33623	37	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33624	38	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+33625	39	абсолютно	јЅ—ќЋё“Ќќ	ADV -			о	н	т	ю	л	о	ADV	јЅ—ќЋё“Ќќ	ADV -	
+33626	40	нормальным	Ќќ–ћјЋ№Ќџ…	A - ins sg plen m -			м	ы	н	ь	л	а	A	Ќќ–ћјЋ№Ќџ…	A - ins sg plen m -	6
+33627	41	русским	–”—— »…	A - ins sg plen m -			м	и	к	с	с	у	A	–”—— »…	A - ins sg plen m -	
+33628	42	€зыком	я«џ 	S m inan ins sg			м	о	к	ы	з	€	S	я«џ 	S m inan ins sg	
+33629	43	.	.	SENT									SENT	.	SENT	
+33630																
+33631	1	»	»	CONJ			и						CONJ	»	CONJ	
+33632	2	ребенок	–≈Ѕ≈Ќќ 	S m anim nom sg			к	о	н	е	б	е	S	–≈Ѕ≈Ќќ 	S m anim nom sg	
+33633	3	должен	ƒќЋ∆Ќџ…	PRAEDIC -			н	е	ж	л	о	д	A	ƒќЋ∆Ќџ…	A - - sg brev m -	
+33634	4	слышать	—ЋџЎј“№	V ipf - - inf - -			ь	т	а	ш	ы	л	V	—ЋџЎј“№	V ipf - - inf - -	
+33635	5	хорошую	’ќ–ќЎ»…	A - acc sg plen f -			ю	у	ш	о	р	о	A	’ќ–ќЎ»…	A - acc sg plen f -	
+33636	6	,	,	PUNC									PUNC	,	PUNC	
+33637	7	развитую	–ј«¬»“џ…	A - acc sg plen f -			ю	у	т	и	в	з	A	–ј«¬»“џ…	A - acc sg plen f -	
+33638	8	речь	–≈„№	S f inan acc sg			ь	ч	е	р			S	–≈„№	S f inan acc sg	
+33639	9	.	.	SENT									SENT	.	SENT	
+33640																
+33641	1	<	<	PUNC									PUNC	<	PUNC	
+33642	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33643	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33644	4	=	=	PUNC									PUNC	=	PUNC	
+33645	5			_											_	
+33646	6	“ока	“ќЋ№ ќ	PART	distort		а	к	о	т			S	“ќ 	S m inan acc pl	
+33647	7			_											_	8
+33648	8	>	>	PUNC									PUNC	>	PUNC	
+33649	9	“олько	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART	
+33650	10	<	<	PUNC									PUNC	<	PUNC	22
+33651	11	/	/	PUNC									PUNC	/	PUNC	
+33652	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33653	13	>	>	PUNC									PUNC	>	PUNC	
+33654	14	тогда	“ќ√ƒј	ADV -			а	д	г	о	т		ADV	“ќ√ƒј	ADV -	
+33655	15	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	
+33656	16	сможет	—ћќ„№	V pf fut sg indic act 3p			т	е	ж	о	м	с	V	—ћќ„№	V pf fut sg indic - 3p	
+33657	17	научитьс€	Ќј”„»“№—я	V pf - - inf - -			€	с	ь	т	и	ч	V	Ќј”„»“№—я	V pf - - inf - -	
+33658	18	нормально	Ќќ–ћјЋ№Ќќ	ADV -			о	н	ь	л	а	м	ADV	Ќќ–ћјЋ№Ќќ	ADV -	
+33659	19	говорить	√ќ¬ќ–»“№	V ipf - - inf - -			ь	т	и	р	о	в	V	√ќ¬ќ–»“№	V ipf - - inf - -	
+33660	20	.	.	SENT									SENT	.	SENT	
+33661																
+33662	1	<	<	PUNC									PUNC	<	PUNC	
+33663	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33664	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33665	4	=	=	PUNC									PUNC	=	PUNC	
+33666	5			_											_	8
+33667	6	—кока	— ќЋ№ ќ	ADV -	distort		а	к	о	к	с		S	— ќ 	S f inan nom sg	
+33668	7			_											_	
+33669	8	>	>	PUNC									PUNC	>	PUNC	
+33670	9	—колько	— ќЋ№ ќ	ADV -			о	к	ь	л	о	к	ADV	— ќЋ№ ќ	ADV -	27
+33671	10	<	<	PUNC									PUNC	<	PUNC	
+33672	11	/	/	PUNC									PUNC	/	PUNC	
+33673	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33674	13	>	>	PUNC									PUNC	>	PUNC	
+33675	14	раз	–ј«	S m inan gen sg			з	а	р				S	–ј«	S m inan acc sg	
+33676	15	мы	ћџ	SPRO pl 1p - nom			ы	м					SPRO	ћџ	SPRO pl 1p - nom	
+33677	16	видели	¬»ƒ≈“№	V ipf praet pl indic - -			и	л	е	д	и	в	V	¬»ƒ≈“№	V ipf praet pl indic - -	
+33678	17	такое	“ј ќ…	APRO - acc sg plen n inan			е	о	к	а	т		A	“ј ќ…	A - acc sg plen n inan	
+33679	18	,	,	PUNC									PUNC	,	PUNC	
+33680	19	да	ƒј	PART			а	д					CONJ	ƒј	CONJ	
+33681	20	,	,	PUNC									PUNC	,	PUNC	
+33682	21	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33683	22	в	¬	PR			в						PR	¬	PR	
+33684	23	семь€х	—≈ћ№я	S f inan loc pl			х	€	ь	м	е	с	S	—≈ћ№я	S f inan loc pl	
+33685	24	,	,	PUNC									PUNC	,	PUNC	
+33686	25	эээ	Ё	INTJ			э	э	э				NONLEX	ЁЁЁ	NONLEX	
+33687	26	,	,	PUNC									PUNC	,	PUNC	
+33688	27	где	√ƒ≈	ADVPRO -			е	д	г				ADV	√ƒ≈	ADV -	
+33689	28	папа	ѕјѕј	S m anim nom sg			а	п	а	п			S	ѕјѕј	S m anim nom sg	
+33690	29	с	—	PR			с						PR	—	PR	
+33691	30	мамой	ћјћј	S f anim ins sg			й	о	м	а	м		S	ћјћј	S f anim ins sg	
+33692	31	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33693	32	ругаютс€	–”√ј“№—я	V ipf praes pl indic med 3p			€	с	т	ю	а	г	V	–”√ј“№—я	V ipf praes pl indic - 3p	
+33694	33	матом	ћј“	S m inan ins sg			м	о	т	а	м		S	ћј“	S m inan ins sg	
+33695	34	,	,	PUNC									PUNC	,	PUNC	
+33696	35	а	ј	CONJ			а						CONJ	ј	CONJ	
+33697	36	на	Ќј	PR			а	н					PR	Ќј	PR	
+33698	37	нем	ќЌ	SPRO sg 3p m loc			м	е	н				SPRO	ќЌ	SPRO sg 3p m loc	
+33699	38	разговаривают	–ј«√ќ¬ј–»¬ј“№	V ipf praes pl indic act 3p			т	ю	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf praes pl indic - 3p	
+33700	39	,	,	PUNC									PUNC	,	PUNC	
+33701	40	дети	–≈Ѕ≈Ќќ 	S m anim nom pl			и	т	е	д			S	–≈Ѕ≈Ќќ 	S m anim nom pl	
+33702	41	общаютс€	ќЅўј“№—я	V ipf praes pl indic act 3p			€	с	т	ю	а	щ	V	ќЅўј“№—я	V ipf praes pl indic - 3p	
+33703	42	абсолютно	јЅ—ќЋё“Ќќ	ADV -			о	н	т	ю	л	о	ADV	јЅ—ќЋё“Ќќ	ADV -	
+33704	43	так же	так же	NONLEX	раздельно		е	ж	 	к	а	т	-	так же	-	
+33705	44	.	.	SENT									SENT	.	SENT	
+33706																
+33707	1	 омментатор	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg			р	о	т	а	т	н	S	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg	
+33708	2	@	@	PUNC									PUNC	@	PUNC	
+33709	3	Ќу	Ќ”	INTJ			у	н					PART	Ќ”	PART	
+33710	4	да	ƒј	PART			а	д					PART	ƒј	PART	
+33711	5	.	.	SENT									SENT	.	SENT	
+33712																
+33713	1	≈лена	≈Ћ≈Ќј	S f anim persn nom sg			а	н	е	л	е		S	≈Ћ≈Ќј	S f anim nom sg	
+33714	2	@	@	PUNC									PUNC	@	PUNC	
+33715	3	Ќе	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33716	4	<	<	PUNC									PUNC	<	PUNC	
+33717	5	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33718	6	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33719	7	=	=	PUNC									PUNC	=	PUNC	
+33720	8			_											_	
+33721	9	ст	—“	NONLEX	distort		т	с					S	—“	S f inan nonflex nonflex	
+33722	10			_											_	
+33723	11	>	>	PUNC									PUNC	>	PUNC	
+33724	12	стоит	—“ќ»“№	V ipf praes sg indic act 3p			т	и	о	т	с		V	—“ќя“№	V ipf praes sg indic - 3p	
+33725	13	<	<	PUNC									PUNC	<	PUNC	
+33726	14	/	/	PUNC									PUNC	/	PUNC	
+33727	15	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33728	16	>	>	PUNC									PUNC	>	PUNC	
+33729	17	эээ	Ё	INTJ			э	э	э				NONLEX	ЁЁЁ	NONLEX	
+33730	18	,	,	PUNC									PUNC	,	PUNC	
+33731	19	чему	„“ќ	SPRO n - dat sg			у	м	е	ч			S	„“ќ	S n - dat sg	
+33732	20	стоит	—“ќ»“№	V ipf praes sg indic act 3p			т	и	о	т	с		V	—“ќ»“№	V ipf praes sg indic - 3p	
+33733	21	удивл€тьс€	”ƒ»¬Ћя“№—я	V ipf - - inf - -			€	с	ь	т	€	л	V	”ƒ»¬Ћя“№—я	V ipf - - inf - -	
+33734	22	,	,	PUNC									PUNC	,	PUNC	
+33735	23	когда	 ќ√ƒј	CONJ			а	д	г	о	к		CONJ	 ќ√ƒј	CONJ	11
+33736	24	мой	ћќ…	APRO - nom sg plen m -			й	о	м				A	ћќ…	A - nom sg plen m -	
+33737	25	ребенок	–≈Ѕ≈Ќќ 	S m anim nom sg			к	о	н	е	б	е	S	–≈Ѕ≈Ќќ 	S m inan nom sg	
+33738	26	пришел	ѕ–»…“»	V pf praet sg indic m act			л	е	ш	и	р	п	V	ѕ–»…“»	V pf praet sg indic m -	
+33739	27	в	¬	PR			в						PR	¬	PR	
+33740	28	школу	Ў ќЋј	S f inan acc sg			у	л	о	к	ш		S	Ў ќЋј	S f inan acc sg	
+33741	29	<	<	PUNC									PUNC	<	PUNC	27
+33742	30	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33743	31	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33744	32	=	=	PUNC									PUNC	=	PUNC	
+33745	33			_											_	
+33746	34	ии	»	CONJ			и	и					S	»я	S f anim loc sg	
+33747	35			_											_	
+33748	36	>	>	PUNC									PUNC	>	PUNC	
+33749	37	и	»	CONJ			и						CONJ	»	CONJ	
+33750	38	<	<	PUNC									PUNC	<	PUNC	
+33751	39	/	/	PUNC									PUNC	/	PUNC	
+33752	40	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33753	41	>	>	PUNC									PUNC	>	PUNC	
+33754	42	спуст€	—ѕ”—“я	PR			€	т	с	у	п	с	PR	—ѕ”—“я	PR	
+33755	43	,	,	PUNC									PUNC	,	PUNC	
+33756	44	там	“јћ	PART			м	а	т				ADV	“јћ	ADV -	
+33757	45	,	,	PUNC									PUNC	,	PUNC	
+33758	46	полгода	ѕќЋ√ќƒј	S m inan acc pl			а	д	о	г	л	о	S	ѕќЋ√ќƒј	S m inan acc pl	
+33759	47	учитель	”„»“≈Ћ№	S m anim nom sg			ь	л	е	т	и	ч	S	”„»“≈Ћ№	S m anim nom sg	
+33760	48	<	<	PUNC									PUNC	<	PUNC	27
+33761	49	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33762	50	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33763	51	=	=	PUNC									PUNC	=	PUNC	
+33764	52			_											_	
+33765	53	—каал	— ј«ј“№	V pf praet sg indic m act	distort		л	а	а	к	с		S	— јјЋ	S f inan nom sg	
+33766	54			_											_	
+33767	55	>	>	PUNC									PUNC	>	PUNC	
+33768	56	—казал	— ј«ј“№	V pf praet sg indic m act			л	а	з	а	к	с	V	— ј«ј“№	V pf praet sg indic m -	
+33769	57	<	<	PUNC									PUNC	<	PUNC	
+33770	58	/	/	PUNC									PUNC	/	PUNC	
+33771	59	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33772	60	>	>	PUNC									PUNC	>	PUNC	
+33773	61	:	:	PUNC									PUNC	:	PUNC	
+33774	62	Ђ	Ђ	PUNC									PUNC	Ђ	PUNC	7
+33775	63	¬ы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom	
+33776	64	знаете	«Ќј“№	V ipf praes pl indic - 2p			е	т	е	а	н	з	V	«Ќј“№	V ipf praes pl indic - 2p	
+33777	65	,	,	PUNC									PUNC	,	PUNC	
+33778	66	-	-	PUNC									PUNC	-	PUNC	
+33779	67	<	<	PUNC									PUNC	<	PUNC	
+33780	68	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33781	69	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33782	70	=	=	PUNC									PUNC	=	PUNC	
+33783	71			_											_	
+33784	72	√т	√ќ¬ќ–»“№	V ipf praes sg indic act 3p	distort		т	г					NONLEX	√“	NONLEX	
+33785	73			_											_	
+33786	74	>	>	PUNC									PUNC	>	PUNC	
+33787	75	говорит	√ќ¬ќ–»“№	V ipf praes sg indic - 3p			т	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes sg indic - 3p	
+33788	76	<	<	PUNC									PUNC	<	PUNC	
+33789	77	/	/	PUNC									PUNC	/	PUNC	
+33790	78	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33791	79	>	>	PUNC									PUNC	>	PUNC	
+33792	80	,	,	PUNC									PUNC	,	PUNC	
+33793	81	-	-	PUNC									PUNC	-	PUNC	
+33794	82	<	<	PUNC									PUNC	<	PUNC	
+33795	83	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33796	84	form	FORM	NONLEX									NONLEX	FORM	NONLEX	26
+33797	85	=	=	PUNC									PUNC	=	PUNC	
+33798	86			_											_	
+33799	87	аа	ј	INTJ			а	а					NONLEX	јј	NONLEX	
+33800	88			_											_	
+33801	89	>	>	PUNC									PUNC	>	PUNC	
+33802	90	а	ј	CONJ			а						CONJ	ј	CONJ	
+33803	91	<	<	PUNC									PUNC	<	PUNC	
+33804	92	/	/	PUNC									PUNC	/	PUNC	
+33805	93	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33806	94	>	>	PUNC									PUNC	>	PUNC	
+33807	95	половина	ѕќЋќ¬»Ќј	S f inan nom sg			а	н	и	в	о	л	S	ѕќЋќ¬»Ќј	S f inan nom sg	
+33808	96	детей	–≈Ѕ≈Ќќ 	S m anim gen pl			й	е	т	е	д		S	–≈Ѕ≈Ќќ 	S m anim gen pl	
+33809	97	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33810	98	понимает	ѕќЌ»ћј“№	V ipf praes sg indic - 3p			т	е	а	м	и	н	V	ѕќЌ»ћј“№	V ipf praes sg indic - 3p	
+33811	99	,	,	PUNC									PUNC	,	PUNC	
+33812	100	о	ќ	PR			о						PR	ќ	PR	
+33813	101	<	<	PUNC									PUNC	<	PUNC	
+33814	102	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33815	103	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33816	104	=	=	PUNC									PUNC	=	PUNC	
+33817	105			_											_	
+33818	106	ч	„	NONLEX	distort		ч						S	„	S f inan nonflex nonflex	
+33819	107			_											_	
+33820	108	>	>	PUNC									PUNC	>	PUNC	
+33821	109	чем	„“ќ	SPRO loc sg m			м	е	ч				CONJ	„≈ћ	CONJ	
+33822	110	<	<	PUNC									PUNC	<	PUNC	34
+33823	111	/	/	PUNC									PUNC	/	PUNC	
+33824	112	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33825	113	>...	>...	PUNC									PUNC	>...	PUNC	
+33826	114	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom	
+33827	115	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33828	116	могут	ћќ„№	V ipf praes pl indic - 3p			т	у	г	о	м		V	ћќ„№	V ipf praes pl indic - 3p	
+33829	117	с	—	PR			с						PR	—	PR	
+33830	118	ним	ќЌ	SPRO sg 3p m ins			м	и	н				SPRO	ќЌ	SPRO sg 3p m ins	
+33831	119	общатьс€	ќЅўј“№—я	V ipf - - inf - -			€	с	ь	т	а	щ	V	ќЅўј“№—я	V ipf - - inf - -	
+33832	120	,	,	PUNC									PUNC	,	PUNC	
+33833	121	они	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom	31
+33834	122	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33835	123	понимают	ѕќЌ»ћј“№	V ipf praes pl indic - 3p			т	ю	а	м	и	н	V	ѕќЌ»ћј“№	V ipf praes pl indic - 3p	
+33836	124	,	,	PUNC									PUNC	,	PUNC	7
+33837	125	о	ќ	PR			о						PR	ќ	PR	
+33838	126	чем	„“ќ	S n - ins sg			м	е	ч				S	„“ќ	S n - ins sg	
+33839	127	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	
+33840	128	говорит	√ќ¬ќ–»“№	V ipf praes sg indic - 3p			т	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praes sg indic - 3p	
+33841	129	.	.	SENT									SENT	.	SENT	
+33842																
+33843	1	ќни	ќЌ»	SPRO pl - - nom			и	н	о				SPRO	ќЌ»	SPRO pl - - nom	
+33844	2	половину	ѕќЋќ¬»Ќј	S f inan acc sg			у	н	и	в	о	л	S	ѕќЋќ¬»Ќј	S f inan acc sg	
+33845	3	слов	—Ћќ¬ќ	S n inan adnum pl			в	о	л	с			S	—Ћќ¬ќ	S n inan gen pl	
+33846	4	таких	“ј ќ…	APRO - gen pl plen - -			х	и	к	а	т		A	“ј ќ…	A - gen pl plen - -	
+33847	5	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33848	6	слышали	—ЋџЎј“№	V ipf praet pl indic act -			и	л	а	ш	ы	л	V	—ЋџЎј“№	V ipf praet pl indic - -	
+33849	7	и	»	CONJ			и						CONJ	»	CONJ	
+33850	8	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33851	9	знают	«Ќј“№	V ipf praes pl indic - 3p			т	ю	а	н	з		V	«Ќј“№	V ipf praes pl indic - 3p	87
+33852	10	ї	ї	PUNC									PUNC	ї	PUNC	
+33853	11	.	.	SENT									SENT	.	SENT	8
+33854																
+33855	1	»менно	»ћ≈ЌЌќ	PART			о	н	н	е	м	и	PART	»ћ≈ЌЌќ	PART	
+33856	2	в	¬	PR			в						PR	¬	PR	
+33857	3	этом	Ё“ќ“	SPRO - loc sg plen m -			м	о	т	э			A	Ё“ќ“	A - loc sg plen m -	
+33858	4	проблема	ѕ–ќЅЋ≈ћј	S f inan nom sg			а	м	е	л	б	о	S	ѕ–ќЅЋ≈ћј	S f inan nom sg	
+33859	5	,	,	PUNC									PUNC	,	PUNC	
+33860	6	<	<	PUNC									PUNC	<	PUNC	
+33861	7	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33862	8	form	FORM	NONLEX									NONLEX	FORM	NONLEX	26
+33863	9	=	=	PUNC									PUNC	=	PUNC	
+33864	10			_											_	
+33865	11	чтоо	„“ќ	CONJ			о	о	т	ч			S	„“ќќ	S m anim nonflex nonflex	
+33866	12			_											_	
+33867	13	>	>	PUNC									PUNC	>	PUNC	
+33868	14	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33869	15	<	<	PUNC									PUNC	<	PUNC	
+33870	16	/	/	PUNC									PUNC	/	PUNC	
+33871	17	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33872	18	>	>	PUNC									PUNC	>	PUNC	
+33873	19	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+33874	20	везде	¬≈«ƒ≈	ADV -			е	д	з	е	в		ADV	¬≈«ƒ≈	ADV -	
+33875	21	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33876	22	нормальным	Ќќ–ћјЋ№Ќџ…	A - ins sg plen m -			м	ы	н	ь	л	а	A	Ќќ–ћјЋ№Ќџ…	A - ins sg plen m -	
+33877	23	€зыком	я«џ 	S m inan ins sg			м	о	к	ы	з	€	S	я«џ 	S m inan ins sg	
+33878	24	.	.	SENT									SENT	.	SENT	
+33879																
+33880	1	ƒл€	ƒЋя	PR			€	л	д				PR	ƒЋя	PR	
+33881	2	того	“ќ	SPRO n - gen sg			о	г	о	т			S	“ќ	S n - gen sg	
+33882	3	,	,	PUNC									PUNC	,	PUNC	7
+33883	4	чтобы	„“ќЅџ	CONJ			ы	б	о	т	ч		CONJ	„“ќЅџ	CONJ	
+33884	5	им	ќЌ»	SPRO sg - - ins			м	и					SPRO	ќЌ»	SPRO pl - - dat	31
+33885	6	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+33886	7	,	,	PUNC									PUNC	,	PUNC	
+33887	8	его	ќЌ	SPRO sg 3p m acc			о	г	е				SPRO	ќЌ	SPRO sg 3p m acc	
+33888	9	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33889	10	знать	«Ќј“№	V ipf - - inf - -			ь	т	а	н	з		V	«Ќј“№	V ipf - - inf - -	
+33890	11	,	,	PUNC									PUNC	,	PUNC	
+33891	12	его	ќЌ	SPRO sg 3p m acc			о	г	е				SPRO	ќЌ	SPRO sg 3p m acc	
+33892	13	надо	Ќјƒќ	PRAEDIC -			о	д	а	н			ADV	Ќјƒќ	ADV -	
+33893	14	видеть	¬»ƒ≈“№	V ipf - - inf - -			ь	т	е	д	и	в	V	¬»ƒ≈“№	V ipf - - inf - -	
+33894	15	посто€нно	ѕќ—“ќяЌЌќ	ADV -			о	н	н	€	о	т	ADV	ѕќ—“ќяЌЌќ	ADV -	
+33895	16	перед	ѕ≈–≈ƒ	PR			д	е	р	е	п		PR	ѕ≈–≈ƒ	PR	
+33896	17	глазами	√Ћј«	S m inan ins pl			и	м	а	з	а	л	S	√Ћј«	S m inan ins pl	
+33897	18	,	,	PUNC									PUNC	,	PUNC	
+33898	19	то есть	“ќ ≈—“№	PART			ь	т	с	е	 	о	-	то есть	-	
+33899	20	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ	
+33900	21	раньше	–јЌќ	ADV comp			е	ш	ь	н	а	р	ADV	–јЌќ	ADV comp	
+33901	22	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33902	23	открывала	ќ“ –џ¬ј“№	V ipf praet sg indic f act			а	л	а	в	ы	р	V	ќ“ –џ¬ј“№	V ipf praet sg indic f -	
+33903	24	книгу	 Ќ»√ј	S f inan acc sg			у	г	и	н	к		S	 Ќ»√ј	S f inan acc sg	
+33904	25	,	,	PUNC									PUNC	,	PUNC	
+33905	26	и	»	CONJ			и						CONJ	»	CONJ	
+33906	27	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33907	28	была	Ѕџ“№	V ipf praet sg indic f -			а	л	ы	б			V	Ѕџ“№	V ipf praet sg indic f -	
+33908	29	точно	“ќ„Ќќ	ADV -			о	н	ч	о	т		ADV	“ќ„Ќќ	ADV -	
+33909	30	уверена	”¬≈–≈ЌЌџ…	V partcp praet sg brev f pf			а	н	е	р	е	в	A	”¬≈–≈ЌЌџ…	A - - sg brev f -	
+33910	31	,	,	PUNC									PUNC	,	PUNC	
+33911	32	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+33912	33	там	“јћ	ADV -			м	а	т				ADV	“јћ	ADV -	
+33913	34	написано	Ќјѕ»—ј“№	PARTCP pf praet - sg brev n pass -			о	н	а	с	и	п	PARTCP	Ќјѕ»—ј“№	PARTCP pf praet - sg brev n pass -	
+33914	35	грамотным	√–јћќ“Ќџ…	A - ins sg plen m -			м	ы	н	т	о	м	A	√–јћќ“Ќџ…	A - ins sg plen m -	
+33915	36	русским	–”—— »…	A - ins sg plen m -			м	и	к	с	с	у	A	–”—— »…	A - ins sg plen m -	
+33916	37	€зыком	я«џ 	S m inan ins sg			м	о	к	ы	з	€	S	я«џ 	S m inan ins sg	
+33917	38	,	,	PUNC									PUNC	,	PUNC	
+33918	39	то	“ќ	CONJ			о	т					CONJ	“ќ	CONJ	
+33919	40	сейчас	—≈…„ј—	ADV -			с	а	ч	й	е	с	ADV	—≈…„ј—	ADV -	
+33920	41	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33921	42	в	¬	PR			в						PR	¬	PR	6
+33922	43	этом	Ё“ќ	SPRO n - loc sg			м	о	т	э			S	Ё“ќ	S n - loc sg	
+33923	44	совершенно	—ќ¬≈–Ў≈ЌЌќ	ADV -			о	н	н	е	ш	р	ADV	—ќ¬≈–Ў≈ЌЌќ	ADV -	42
+33924	45	<	<	PUNC									PUNC	<	PUNC	
+33925	46	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX	
+33926	47	>	>	PUNC									PUNC	>	PUNC	
+33927	48	[	[	PUNC									PUNC	[	PUNC	
+33928	49	нрзб	Ќ–«Ѕ	NONLEX	помета		б	з	р	н			NONLEX	Ќ–«Ѕ	NONLEX	
+33929	50	]	]	PUNC									PUNC	]	PUNC	
+33930	51	<	<	PUNC									PUNC	<	PUNC	
+33931	52	/	/	PUNC									PUNC	/	PUNC	
+33932	53	noindex	NOINDEX	NONLEX									NONLEX	NOINDEX	NONLEX	
+33933	54	>	>	PUNC									PUNC	>	PUNC	
+33934	55	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+33935	56	уверена	”¬≈–≈ЌЌџ…	V partcp praet sg brev f pf			а	н	е	р	е	в	A	”¬≈–≈ЌЌџ…	A - - sg brev f -	
+33936	57	.	.	SENT									SENT	.	SENT	8
+33937																
+33938	1	ќткрыва€	ќ“ –џ¬ј“№	V ipf praes - ger - -			€	а	в	ы	р	к	V	ќ“ –џ¬ј“№	V ipf praes - ger - -	
+33939	2	книгу	 Ќ»√ј	S f inan acc sg			у	г	и	н	к		S	 Ќ»√ј	S f inan acc sg	
+33940	3	,	,	PUNC									PUNC	,	PUNC	
+33941	4	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+33942	5	вижу	¬»ƒ≈“№	V ipf praes sg indic - 1p			у	ж	и	в			V	¬»ƒ≈“№	V ipf praes sg indic - 1p	
+33943	6	<	<	PUNC									PUNC	<	PUNC	
+33944	7	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	10
+33945	8	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33946	9	=	=	PUNC									PUNC	=	PUNC	
+33947	10			_											_	
+33948	11	коли	 ќЋ»„≈—“¬ќ	S acc sg n inan	distort		и	л	о	к			CONJ	 ќЋ»	CONJ	
+33949	12			_											_	
+33950	13	>	>	PUNC									PUNC	>	PUNC	
+33951	14	количество	 ќЋ»„≈—“¬ќ	S acc sg n inan			о	в	т	с	е	ч	S	 ќЋ»„≈—“¬ќ	S n inan nom sg	
+33952	15	<	<	PUNC									PUNC	<	PUNC	
+33953	16	/	/	PUNC									PUNC	/	PUNC	
+33954	17	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33955	18	>	>	PUNC									PUNC	>	PUNC	
+33956	19	...	...	SENT									SENT	...	SENT	
+33957																
+33958	1	<	<	PUNC									PUNC	<	PUNC	
+33959	2	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	10
+33960	3	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33961	4	=	=	PUNC									PUNC	=	PUNC	
+33962	5			_											_	
+33963	6	груб	√–”Ѕџ…	A - gen pl plen -	distort		б	у	р	г			A	√–”Ѕџ…	A - - sg brev m -	
+33964	7			_											_	
+33965	8	>	>	PUNC									PUNC	>	PUNC	
+33966	9	грубых	√–”Ѕџ…	A - gen pl plen - -			х	ы	б	у	р	г	A	√–”Ѕџ…	A - gen pl plen - -	
+33967	10	<	<	PUNC									PUNC	<	PUNC	
+33968	11	/	/	PUNC									PUNC	/	PUNC	
+33969	12	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33970	13	>...	>...	PUNC									PUNC	>...	PUNC	
+33971	14	эээ...	Ё	INTJ						э	э	э	NONLEX	ЁЁЁ...	NONLEX	
+33972	15	огромное	ќ√–ќћЌџ…	A - acc sg plen n -			е	о	н	м	о	р	A	ќ√–ќћЌџ…	A - acc sg plen n inan	
+33973	16	количество	 ќЋ»„≈—“¬ќ	S acc sg n inan			о	в	т	с	е	ч	S	 ќЋ»„≈—“¬ќ	S n inan acc sg	
+33974	17	ошибок	ќЎ»Ѕ ј	S f inan gen pl			к	о	б	и	ш	о	S	ќЎ»Ѕ ј	S f inan gen pl	
+33975	18	.	.	SENT									SENT	.	SENT	
+33976																
+33977	1	—луша€	—Ћ”Ўј“№	V ipf praes - ger act  -			€	а	ш	у	л	с	V	—Ћ”Ўј“№	V ipf praes - ger - -	
+33978	2	,	,	PUNC									PUNC	,	PUNC	
+33979	3	эээ	Ё	INTJ			э	э	э				NONLEX	ЁЁЁ	NONLEX	
+33980	4	,	,	PUNC									PUNC	,	PUNC	
+33981	5	выступление	¬џ—“”ѕЋ≈Ќ»≈	S n inan acc sg			е	и	н	е	л	п	S	¬џ—“”ѕЋ≈Ќ»≈	S n inan nom sg	
+33982	6	дикторов	ƒ» “ќ–	S m anim gen pl			в	о	р	о	т	к	S	ƒ» “ќ–	S m anim gen pl	
+33983	7	по	ѕќ	PR			о	п					PR	ѕќ	PR	
+33984	8	телевизору	“≈Ћ≈¬»«ќ–	S m inan dat sg			у	р	о	з	и	в	S	“≈Ћ≈¬»«ќ–	S m inan dat sg	
+33985	9	Ц	Ц	PUNC									PUNC	Ц	PUNC	
+33986	10	<	<	PUNC									PUNC	<	PUNC	
+33987	11	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33988	12	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+33989	13	=	=	PUNC									PUNC	=	PUNC	
+33990	14			_											_	
+33991	15	ќт	ќ“	PR			т	о					PR	ќ“	PR	
+33992	16			_											_	
+33993	17	>	>	PUNC									PUNC	>	PUNC	
+33994	18	¬от	¬ќ“	PART			т	о	в				PART	¬ќ“	PART	
+33995	19	<	<	PUNC									PUNC	<	PUNC	
+33996	20	/	/	PUNC									PUNC	/	PUNC	
+33997	21	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+33998	22	>	>	PUNC									PUNC	>	PUNC	
+33999	23	вспомните	¬—ѕќћЌ»“№	V impf act imper pl - 2p			е	т	и	н	м	о	V	¬—ѕќћЌ»“№	V pf fut pl indic - 2p	
+34000	24	:	:	PUNC									PUNC	:	PUNC	
+34001	25	раз...	–ј«...	NONLEX	distort					з	а	р	S	–ј«...	S m inan gen sg	
+34002	26	<	<	PUNC									PUNC	<	PUNC	
+34003	27	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34004	28	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34005	29	=	=	PUNC									PUNC	=	PUNC	
+34006	30			_											_	
+34007	31	раз	–ј«	NONLEX	distort		з	а	р				S	–ј«	S m inan acc sg	9
+34008	32			_											_	
+34009	33	>	>	PUNC									PUNC	>	PUNC	
+34010	34	разве	–ј«¬≈	PART			е	в	з	а	р		PART	–ј«¬≈	PART	9
+34011	35	<	<	PUNC									PUNC	<	PUNC	
+34012	36	/	/	PUNC									PUNC	/	PUNC	
+34013	37	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34014	38	>	>	PUNC									PUNC	>	PUNC	
+34015	39	разве	–ј«¬≈	PART			е	в	з	а	р		PART	–ј«¬≈	PART	
+34016	40	раньше	–јЌќ	ADV comp			е	ш	ь	н	а	р	ADV	–јЌќ	ADV comp	
+34017	41	диктор	ƒ» “ќ–	S m anim nom sg			р	о	т	к	и	д	S	ƒ» “ќ–	S m anim nom sg	
+34018	42	мог	ћќ„№	V ipf praet sg indic m 3p			г	о	м				V	ћќ„№	V ipf praet sg indic m -	
+34019	43	ошибитьс€	ќЎ»Ѕ»“№—я	V pf - - inf - -			€	с	ь	т	и	б	V	ќЎ»Ѕ»“№—я	V pf - - inf - -	
+34020	44	?	?	SENT									SENT	?	SENT	
+34021																
+34022	1	Ёто	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+34023	2	был	Ѕџ“№	V ipf praet sg indic m -			л	ы	б				V	Ѕџ“№	V ipf praet sg indic m -	
+34024	3	скандал	— јЌƒјЋ	S m inan nom sg			л	а	д	н	а	к	S	— јЌƒјЋ	S m inan nom sg	
+34025	4	,	,	PUNC									PUNC	,	PUNC	
+34026	5	катастрофа	 ј“ј—“–ќ‘ј	S f inan nom sg			а	ф	о	р	т	с	S	 ј“ј—“–ќ‘ј	S f inan nom sg	
+34027	6	!	!	SENT									SENT	!	SENT	
+34028																
+34029	1	Ц	Ц	PUNC									PUNC	Ц	PUNC	
+34030	2	то	“ќ	CONJ			о	т					CONJ	“ќ	CONJ	
+34031	3	сейчас	—≈…„ј—	ADV -			с	а	ч	й	е	с	ADV	—≈…„ј—	ADV -	
+34032	4	,	,	PUNC									PUNC	,	PUNC	
+34033	5	эээ	Ё	INTJ			э	э	э				NONLEX	ЁЁЁ	NONLEX	
+34034	6	,	,	PUNC									PUNC	,	PUNC	
+34035	7	со	—ќ	PR			о	с					PR	—ќ	PR	
+34036	8	времен	¬–≈ћя	S n inan gen pl			н	е	м	е	р	в	S	¬–≈ћя	S n inan gen pl	
+34037	9	√орбачева	√ќ–Ѕј„≈¬	S m anim famn gen sg			а	в	е	ч	а	б	S	√ќ–Ѕј„≈¬	S m anim gen sg	
+34038	10	,	,	PUNC									PUNC	,	PUNC	
+34039	11	повелось	ѕќ¬≈—“»—№	V pf praet sg indic n med			ь	с	о	л	е	в	V	ѕќ¬≈—“»—№	V pf praet sg indic n -	
+34040	12	,	,	PUNC									PUNC	,	PUNC	
+34041	13	<	<	PUNC									PUNC	<	PUNC	
+34042	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34043	15	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34044	16	=	=	PUNC									PUNC	=	PUNC	
+34045	17			_											_	
+34046	18	чтооо	„“ќ	CONJ			о	о	о	т	ч		S	„“ќќќ	S m anim nonflex nonflex	30
+34047	19			_											_	
+34048	20	>	>	PUNC									PUNC	>	PUNC	31
+34049	21	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+34050	22	<	<	PUNC									PUNC	<	PUNC	48
+34051	23	/	/	PUNC									PUNC	/	PUNC	
+34052	24	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34053	25	>...	>...	PUNC									PUNC	>...	PUNC	
+34054	26	х	’	NONLEX	distort		х						S	’	S - - nonflex nonflex	
+34055	27	,	,	PUNC									PUNC	,	PUNC	
+34056	28	диктор	ƒ» “ќ–	S m anim nom sg			р	о	т	к	и	д	S	ƒ» “ќ–	S m anim nom sg	
+34057	29	делает	ƒ≈Ћј“№	V ipf praes sg indic act 3p			т	е	а	л	е	д	V	ƒ≈Ћј“№	V ipf praes sg indic - 3p	
+34058	30	огромное	ќ√–ќћЌџ…	A - acc sg plen n -			е	о	н	м	о	р	A	ќ√–ќћЌџ…	A - nom sg plen n -	
+34059	31	количество	 ќЋ»„≈—“¬ќ	S acc sg n inan			о	в	т	с	е	ч	S	 ќЋ»„≈—“¬ќ	S n inan nom sg	
+34060	32	ошибок	ќЎ»Ѕ ј	S f inan gen pl			к	о	б	и	ш	о	S	ќЎ»Ѕ ј	S f inan gen pl	
+34061	33	,	,	PUNC									PUNC	,	PUNC	
+34062	34	повтор€€	ѕќ¬“ќ–я“№	V ipf praes - ger - -			€	€	р	о	т	в	V	ѕќ¬“ќ–я“№	V ipf praes - ger - -	
+34063	35	речь	–≈„№	S f inan acc sg			ь	ч	е	р			S	–≈„№	S f inan nom sg	
+34064	36	наших	ЌјЎ	A - gen pl plen - -			х	и	ш	а	н		A	ЌјЎ	A - gen pl plen - -	
+34065	37	руководителей	–” ќ¬ќƒ»“≈Ћ№	S m anim gen pl			й	е	л	е	т	и	S	–” ќ¬ќƒ»“≈Ћ№	S m anim gen pl	
+34066	38	.	.	SENT									SENT	.	SENT	
+34067																
+34068	1	ѕочему-то	ѕќ„≈ћ”-“ќ	ADV -			о	т		у	м	е	ADV	ѕќ„≈ћ”-“ќ	ADV -	18
+34069	2	считаетс€	—„»“ј“№—я	V ipf praes sg indic pass 3p			€	с	т	е	а	т	V	—„»“ј“№—я	V ipf praes sg indic - 3p	
+34070	3	,	,	PUNC									PUNC	,	PUNC	
+34071	4	<	<	PUNC									PUNC	<	PUNC	
+34072	5	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34073	6	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34074	7	=	=	PUNC									PUNC	=	PUNC	
+34075	8			_											_	
+34076	9	чтооо	„“ќ	CONJ			о	о	о	т	ч		S	„“ќќќ	S m anim nonflex nonflex	
+34077	10			_											_	
+34078	11	>	>	PUNC									PUNC	>	PUNC	
+34079	12	что	„“ќ	ADV -			о	т	ч				ADV	„“ќ	ADV -	
+34080	13	<	<	PUNC									PUNC	<	PUNC	
+34081	14	/	/	PUNC									PUNC	/	PUNC	
+34082	15	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34083	16	>	>	PUNC									PUNC	>	PUNC	31
+34084	17	нельз€	Ќ≈Ћ№«я	PRAEDIC -			€	з	ь	л	е	н	ADV	Ќ≈Ћ№«я	ADV -	
+34085	18	сказать	— ј«ј“№	V pf - - inf - -			ь	т	а	з	а	к	V	— ј«ј“№	V pf - - inf - -	
+34086	19	нормально	Ќќ–ћјЋ№Ќќ	ADV -			о	н	ь	л	а	м	ADV	Ќќ–ћјЋ№Ќќ	ADV -	
+34087	20	,	,	PUNC									PUNC	,	PUNC	
+34088	21	<	<	PUNC									PUNC	<	PUNC	
+34089	22	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34090	23	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34091	24	=	=	PUNC									PUNC	=	PUNC	
+34092	25			_											_	
+34093	26	еслиии	≈—Ћ»	CONJ	distort		и	и	и	л	с	е	S	≈—Ћ»»»	S m anim gen sg	
+34094	27			_											_	
+34095	28	>	>	PUNC									PUNC	>	PUNC	
+34096	29	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ	
+34097	30	<	<	PUNC									PUNC	<	PUNC	
+34098	31	/	/	PUNC									PUNC	/	PUNC	
+34099	32	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34100	33	>	>	PUNC									PUNC	>	PUNC	
+34101	34	наше	ЌјЎ	A - nom sg plen n -			е	ш	а	н			A	ЌјЎ	A - nom sg plen n -	
+34102	35	руководство	–” ќ¬ќƒ—“¬ќ	S n anim nom sg			о	в	т	с	д	о	S	–” ќ¬ќƒ—“¬ќ	S n inan nom sg	
+34103	36	сказало	— ј«ј“№	V pf praet sg indic n act			о	л	а	з	а	к	V	— ј«ј“№	V pf praet sg indic n -	
+34104	37	неправильно	Ќ≈ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	Ќ≈ѕ–ј¬»Ћ№Ќќ	ADV -	
+34105	38	.	.	SENT									SENT	.	SENT	
+34106																
+34107	1	ѕоэтому	ѕќЁ“ќћ”	CONJ -			у	м	о	т	э	о	ADV	ѕќЁ“ќћ”	ADV -	
+34108	2	<	<	PUNC									PUNC	<	PUNC	
+34109	3	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34110	4	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34111	5	=	=	PUNC									PUNC	=	PUNC	
+34112	6			_											_	
+34113	7	ии	»	CONJ			и	и					S	»я	S f anim loc sg	
+34114	8			_											_	
+34115	9	>	>	PUNC									PUNC	>	PUNC	
+34116	10	и	»	CONJ			и						CONJ	»	CONJ	
+34117	11	<	<	PUNC									PUNC	<	PUNC	
+34118	12	/	/	PUNC									PUNC	/	PUNC	
+34119	13	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34120	14	>	>	PUNC									PUNC	>	PUNC	
+34121	15	получаютс€	ѕќЋ”„ј“№—я	V ipf praes pl indic - 3p			€	с	т	ю	а	ч	V	ѕќЋ”„ј“№—я	V ipf praes pl indic - 3p	
+34122	16	такие	“ј ќ…	APRO - nom pl plen - -			е	и	к	а	т		A	“ј ќ…	A - nom pl plen - -	
+34123	17	проблемы	ѕ–ќЅЋ≈ћј	S f inan nom pl			ы	м	е	л	б	о	S	ѕ–ќЅЋ≈ћј	S f inan nom pl	
+34124	18	с	—	PR			с						PR	—	PR	
+34125	19	€зыком	я«џ 	S m inan ins sg			м	о	к	ы	з	€	S	я«џ 	S m inan ins sg	
+34126	20	.	.	SENT									SENT	.	SENT	
+34127																
+34128	1	’от€	’ќ“я	CONJ			€	т	о	х			CONJ	’ќ“я	CONJ	
+34129	2	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+34130	3	думаю	ƒ”ћј“№	V ipf praes sg indic - 1p			ю	а	м	у	д		V	ƒ”ћј“№	V ipf praes sg indic - 1p	
+34131	4	,	,	PUNC									PUNC	,	PUNC	
+34132	5	<	<	PUNC									PUNC	<	PUNC	6
+34133	6	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34134	7	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34135	8	=	=	PUNC									PUNC	=	PUNC	
+34136	9			_											_	
+34137	10	чтоо	„“ќ	CONJ			о	о	т	ч			S	„“ќќ	S m anim nonflex nonflex	
+34138	11			_											_	
+34139	12	>	>	PUNC									PUNC	>	PUNC	
+34140	13	что	„“ќ	CONJ			о	т	ч				CONJ	„“ќ	CONJ	
+34141	14	<	<	PUNC									PUNC	<	PUNC	
+34142	15	/	/	PUNC									PUNC	/	PUNC	
+34143	16	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34144	17	>	>	PUNC									PUNC	>	PUNC	
+34145	18	все	¬—≈	SPRO - - acc pl			е	с	в				S	¬—≈	S - - acc pl	
+34146	19	можно	ћќ∆Ќќ	PRAEDIC -			о	н	ж	о	м		ADV	ћќ∆Ќќ	ADV -	
+34147	20	исправить	»—ѕ–ј¬»“№	V pf - - inf - -			ь	т	и	в	а	р	V	»—ѕ–ј¬»“№	V pf - - inf - -	
+34148	21	,	,	PUNC									PUNC	,	PUNC	
+34149	22	<	<	PUNC									PUNC	<	PUNC	6
+34150	23	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34151	24	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34152	25	=	=	PUNC									PUNC	=	PUNC	
+34153	26			_											_	
+34154	27	еслии	≈—Ћ»	CONJ	distort		и	и	л	с	е		S	≈—Ћ»≈	S m anim gen sg	
+34155	28			_											_	
+34156	29	>	>	PUNC									PUNC	>	PUNC	
+34157	30	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ	
+34158	31	<	<	PUNC									PUNC	<	PUNC	
+34159	32	/	/	PUNC									PUNC	/	PUNC	
+34160	33	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34161	34	>	>	PUNC									PUNC	>	PUNC	
+34162	35	ы..	џ..	INTJ					ы				S	џ..	S m inan nonflex nonflex	
+34163	36	ззан€тьс€	««јЌя“№—я	V pf - - inf - -	distort		€	с	ь	т	€	н	V	««јЌя“№—я	V pf - - inf - -	
+34164	37	<	<	PUNC									PUNC	<	PUNC	
+34165	38	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34166	39	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34167	40	=	=	PUNC									PUNC	=	PUNC	
+34168	41			_											_	
+34169	42	ззан€тьс€	«јЌя“№—я	V pf - - inf - -	distort		€	с	ь	т	€	н	V	««јЌя“№—я	V pf - - inf - -	
+34170	43			_											_	
+34171	44	>	>	PUNC									PUNC	>	PUNC	
+34172	45	зан€тьс€	«јЌя“№—я	V pf - - inf - -			€	с	ь	т	€	н	V	«јЌя“№—я	V pf - - inf - -	
+34173	46	<	<	PUNC									PUNC	<	PUNC	
+34174	47	/	/	PUNC									PUNC	/	PUNC	
+34175	48	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34176	49	>	>	PUNC									PUNC	>	PUNC	
+34177	50	этим	Ё“ќ	SPRO n - ins sg			м	и	т	э			S	Ё“ќ	S n - ins sg	
+34178	51	всерьез	¬—≈–№≈«	ADV -			з	е	ь	р	е	с	ADV	¬—≈–№≈«	ADV -	
+34179	52	.	.	SENT									SENT	.	SENT	
+34180																
+34181	1	”читьс€	”„»“№—я	V ipf - - inf - -			€	с	ь	т	и	ч	V	”„»“№—я	V ipf - - inf - -	
+34182	2	у	”	PR			у						PR	”	PR	
+34183	3	нормальных	Ќќ–ћјЋ№Ќџ…	A - gen pl plen - -			х	ы	н	ь	л	а	A	Ќќ–ћјЋ№Ќџ…	A - gen pl plen - -	8
+34184	4	людей	„≈Ћќ¬≈ 	S m anim gen pl			й	е	д	ю	л		S	„≈Ћќ¬≈ 	S m anim gen pl	
+34185	5	,	,	PUNC									PUNC	,	PUNC	
+34186	6	разговаривать	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -			ь	т	а	в	и	р	V	–ј«√ќ¬ј–»¬ј“№	V ipf - - inf - -	
+34187	7	с	—	PR			с						PR	—	PR	
+34188	8	нормальными	Ќќ–ћјЋ№Ќџ…	A - ins pl plen - -			и	м	ы	н	ь	л	A	Ќќ–ћјЋ№Ќџ…	A - ins pl plen - -	
+34189	9	людьми	„≈Ћќ¬≈ 	S m anim ins pl			и	м	ь	д	ю	л	S	„≈Ћќ¬≈ 	S m anim ins pl	
+34190	10	.	.	SENT									SENT	.	SENT	
+34191																
+34192	1	я	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+34193	2	считаю	—„»“ј“№	V ipf praes sg indic act 1p			ю	а	т	и	ч	с	V	—„»“ј“№	V ipf praes sg indic - 1p	
+34194	3	,	,	PUNC									PUNC	,	PUNC	
+34195	4	ничего	Ќ»„“ќ	S n - gen sg			о	г	е	ч	и	н	S	Ќ»„“ќ	S n - gen sg	
+34196	5	постыдного	ѕќ—“џƒЌџ…	A - gen sg plen n -			о	г	о	н	д	ы	A	ѕќ—“џƒЌџ…	A - gen sg plen n -	
+34197	6	,	,	PUNC									PUNC	,	PUNC	
+34198	7	если	≈—Ћ»	CONJ			и	л	с	е			CONJ	≈—Ћ»	CONJ	
+34199	8	наши	ЌјЎ	A - nom pl plen - -			и	ш	а	н			A	ЌјЎ	A - nom pl plen - -	
+34200	9	руководители	–” ќ¬ќƒ»“≈Ћ№	S m anim nom pl			и	л	е	т	и	д	S	–” ќ¬ќƒ»“≈Ћ№	S m anim nom pl	
+34201	10	так же	так же	NONLEX	раздельно		е	ж	 	к	а	т	-	так же	-	
+34202	11	,	,	PUNC									PUNC	,	PUNC	
+34203	12	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+34204	13	,	,	PUNC									PUNC	,	PUNC	
+34205	14	закончат	«ј ќЌ„»“№	V pf fut pl indic - 3p			т	а	ч	н	о	к	V	«ј ќЌ„»“№	V pf fut pl indic - 3p	
+34206	15	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -	
+34207	16	дополнительные	ƒќѕќЋЌ»“≈Ћ№Ќџ…	A - acc pl plen - inan			е	ы	н	ь	л	е	A	ƒќѕќЋЌ»“≈Ћ№Ќџ…	A - acc pl plen - inan	
+34208	17	курсы	 ”–—џ	S - inan acc pl			ы	с	р	у	к		S	 ”–—џ	S - inan acc pl	
+34209	18	€зыка	я«џ 	S m inan gen sg			а	к	ы	з	€		S	я«џ 	S m inan gen sg	
+34210	19	и	»	CONJ			и						CONJ	»	CONJ	
+34211	20	умени€	”ћ≈Ќ»≈	S n inan gen sg			€	и	н	е	м	у	S	”ћ≈Ќ»≈	S n inan gen sg	
+34212	21	общатьс€	ќЅўј“№—я	V ipf - - inf - -			€	с	ь	т	а	щ	V	ќЅўј“№—я	V ipf - - inf - -	
+34213	22	.	.	SENT									SENT	.	SENT	
+34214																
+34215	1	”чили	”„»“№	V ipf praet pl indic act -			и	л	и	ч	у		V	”„»“№	V ipf praet pl indic - -	
+34216	2	же	∆≈	PART			е	ж					PART	∆≈	PART	
+34217	3	раньше	–јЌќ	ADV comp			е	ш	ь	н	а	р	ADV	–јЌќ	ADV comp	
+34218	4	,	,	PUNC									PUNC	,	PUNC	
+34219	5	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+34220	6	,	,	PUNC									PUNC	,	PUNC	
+34221	7	умению	”ћ≈Ќ»≈	S n inan dat sg			ю	и	н	е	м	у	S	”ћ≈Ќ»≈	S n inan dat sg	
+34222	8	выступать	¬џ—“”ѕј“№	V ipf - - inf - -			ь	т	а	п	у	т	V	¬џ—“”ѕј“№	V ipf - - inf - -	
+34223	9	,	,	PUNC									PUNC	,	PUNC	
+34224	10	риторике	–»“ќ–» ј	S f inan dat sg			е	к	и	р	о	т	S	–»“ќ–» ј	S f inan loc sg	7
+34225	11	,	,	PUNC									PUNC	,	PUNC	
+34226	12	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+34227	13	,	,	PUNC									PUNC	,	PUNC	
+34228	14	и...	»	CONJ						и			CONJ	»...	CONJ	
+34229	15	всем	¬≈—№	A - dat pl plen - -			м	е	с	в			A	¬≈—№	A - dat pl plen - -	
+34230	16	прочим	ѕ–ќ„»…	A - dat pl plen - -			м	и	ч	о	р	п	A	ѕ–ќ„»…	A - dat pl plen - -	
+34231	17	вещам	¬≈ў№	S f inan dat pl			м	а	щ	е	в		S	¬≈ў№	S f inan dat pl	
+34232	18	.	.	SENT									SENT	.	SENT	
+34233																
+34234	1	 омментатор	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg			р	о	т	а	т	н	S	 ќћћ≈Ќ“ј“ќ–	S m anim nom sg	
+34235	2	@	@	PUNC									PUNC	@	PUNC	
+34236	3	<	<	PUNC									PUNC	<	PUNC	
+34237	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34238	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34239	6	=	=	PUNC									PUNC	=	PUNC	
+34240	7			_											_	
+34241	8	Ќда	Ќƒј	INTJ			а	д	н				INTJ	Ќƒј	INTJ	
+34242	9	>	>	PUNC									PUNC	>	PUNC	
+34243	10	Ќу	Ќ”	INTJ			у	н					PART	Ќ”	PART	
+34244	11	да	ƒј	PART			а	д					PART	ƒј	PART	34
+34245	12	<	<	PUNC									PUNC	<	PUNC	
+34246	13	/	/	PUNC									PUNC	/	PUNC	
+34247	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34248	15	>	>	PUNC									PUNC	>	PUNC	
+34249	16	.	.	SENT									SENT	.	SENT	
+34250																
+34251	1	≈лена	≈Ћ≈Ќј	S f anim persn nom sg			а	н	е	л	е		S	≈Ћ≈Ќј	S f anim nom sg	
+34252	2	@	@	PUNC									PUNC	@	PUNC	
+34253	3	Ёто	Ё“ќ	SPRO n - nom sg			о	т	э				S	Ё“ќ	S n - nom sg	
+34254	4	,	,	PUNC									PUNC	,	PUNC	
+34255	5	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+34256	6	,	,	PUNC									PUNC	,	PUNC	
+34257	7	никогда	Ќ» ќ√ƒј	ADV -			а	д	г	о	к	и	ADV	Ќ» ќ√ƒј	ADV -	
+34258	8	и	»	CONJ			и						CONJ	»	CONJ	
+34259	9	никому	Ќ» “ќ	S m - dat sg			у	м	о	к	и	н	S	Ќ» “ќ	S m - dat sg	
+34260	10	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+34261	11	мешало	ћ≈Ўј“№	V ipf praet sg indic n -			о	л	а	ш	е	м	V	ћ≈Ўј“№	V ipf praet sg indic n -	
+34262	12	в	¬	PR			в						PR	¬	PR	
+34263	13	этой	Ё“ќ“	APRO - loc sg plen f -			й	о	т	э			A	Ё“ќ“	A - loc sg plen f -	
+34264	14	жизни	∆»«Ќ№	S f inan loc sg			и	н	з	и	ж		S	∆»«Ќ№	S f inan loc sg	72
+34265	15	.	.	SENT									SENT	.	SENT	
+34266																
+34267	1	¬	¬	PR			в						PR	¬	PR	6
+34268	2	свое	—¬ќ…	A - acc sg plen n inan			е	о	в	с			A	—¬ќ…	A - acc sg plen n inan	
+34269	3	врем€	¬–≈ћя	S n inan acc sg			€	м	е	р	в		S	¬–≈ћя	S n inan acc sg	
+34270	4	Е	Е	PUNC									PUNC	Е	PUNC	
+34271	5	э	Ё	INTJ			э						INTJ	Ё	INTJ	
+34272	6	,	,	PUNC									PUNC	,	PUNC	
+34273	7	€	я	SPRO sg 1p - nom			€						SPRO	я	SPRO sg 1p - nom	
+34274	8	никогда	Ќ» ќ√ƒј	ADV -			а	д	г	о	к	и	ADV	Ќ» ќ√ƒј	ADV -	
+34275	9	забуду	«јЅџ“№	V pf fut sg indic - 1p			у	д	у	б	а	з	V	«јЅџ“№	V pf fut sg indic - 1p	72
+34276	10	,	,	PUNC									PUNC	,	PUNC	
+34277	11	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+34278	12	у	”	PR			у						PR	”	PR	
+34279	13	нас	ћџ	SPRO pl 1p - gen			с	а	н				SPRO	ћџ	SPRO pl 1p - loc	
+34280	14	в	¬	PR			в						PR	¬	PR	
+34281	15	институте	»Ќ—“»“”“	S m inan loc sg			е	т	у	т	и	т	S	»Ќ—“»“”“	S m inan loc sg	
+34282	16	,	,	PUNC									PUNC	,	PUNC	
+34283	17	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+34284	18	,	,	PUNC									PUNC	,	PUNC	
+34285	19	наш	ЌјЎ	A - nom sg plen m -			ш	а	н				A	ЌјЎ	A - nom sg plen m -	
+34286	20	завкафедрой	«ј¬ ј‘≈ƒ–ќ…	S m anim nonflex nonflex			й	о	р	д	е	ф	S	«ј¬ ј‘≈ƒ–ќ…	S m anim nonflex nonflex	
+34287	21	,	,	PUNC									PUNC	,	PUNC	
+34288	22	э	Ё	INTJ			э						S	Ё	S - - nonflex nonflex	
+34289	23	,	,	PUNC									PUNC	,	PUNC	
+34290	24	совершенно	—ќ¬≈–Ў≈ЌЌќ	ADV -			о	н	н	е	ш	р	ADV	—ќ¬≈–Ў≈ЌЌќ	ADV -	
+34291	25	<	<	PUNC									PUNC	<	PUNC	
+34292	26	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34293	27	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34294	28	=	=	PUNC									PUNC	=	PUNC	
+34295	29			_											_	
+34296	30	замечатьный	«јћ≈„ј“≈Ћ№Ќџ…	A - nom sg plen m -	distort		й	ы	н	ь	т	а	S	«јћ≈„ј“№Ќџ…	S f inan nom sg	
+34297	31			_											_	
+34298	32	>	>	PUNC									PUNC	>	PUNC	
+34299	33	замечательный	«јћ≈„ј“≈Ћ№Ќџ…	A - nom sg plen m -			й	ы	н	ь	л	е	A	«јћ≈„ј“≈Ћ№Ќџ…	A - nom sg plen m -	
+34300	34	<	<	PUNC									PUNC	<	PUNC	
+34301	35	/	/	PUNC									PUNC	/	PUNC	
+34302	36	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34303	37	>	>	PUNC									PUNC	>	PUNC	
+34304	38	старый	—“ј–џ…	A - nom sg plen m -			й	ы	р	а	т	с	A	—“ј–џ…	A - nom sg plen m -	
+34305	39	московский	ћќ— ќ¬— »…	A - nom sg plen m -			й	и	к	с	в	о	A	ћќ— ќ¬— »…	A - nom sg plen m -	
+34306	40	интеллигент	»Ќ“≈ЋЋ»√≈Ќ“	S m anim nom sg			т	н	е	г	и	л	S	»Ќ“≈ЋЋ»√≈Ќ“	S m anim nom sg	
+34307	41	,	,	PUNC									PUNC	,	PUNC	
+34308	42	<	<	PUNC									PUNC	<	PUNC	
+34309	43	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34310	44	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34311	45	=	=	PUNC									PUNC	=	PUNC	
+34312	46			_											_	
+34313	47	вседа	¬—≈√ƒј	ADV -	distort		а	д	е	с	в		S	¬—≈ƒ	S m inan gen sg	
+34314	48			_											_	
+34315	49	>	>	PUNC									PUNC	>	PUNC	
+34316	50	всегда	¬—≈√ƒј	ADV -			а	д	г	е	с	в	ADV	¬—≈√ƒј	ADV -	
+34317	51	<	<	PUNC									PUNC	<	PUNC	
+34318	52	/	/	PUNC									PUNC	/	PUNC	
+34319	53	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34320	54	>	>	PUNC									PUNC	>	PUNC	
+34321	55	говорил	√ќ¬ќ–»“№	V ipf praet sg indic m -			л	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praet sg indic m -	
+34322	56	:	:	PUNC									PUNC	:	PUNC	
+34323	57	Ђ	Ђ	PUNC									PUNC	Ђ	PUNC	
+34324	58	ƒевочки	ƒ≈¬ќ„ ј	S f anim nom pl			и	к	ч	о	в	е	S	ƒ≈¬ќ„ ј	S f anim nom pl	34
+34325	59	,	,	PUNC									PUNC	,	PUNC	
+34326	60	вы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom	
+34327	61	Ц	Ц	PUNC									PUNC	Ц	PUNC	
+34328	62	учител€	”„»“≈Ћ№	S m anim nom pl			€	л	е	т	и	ч	S	”„»“≈Ћ№	S m anim gen sg	
+34329	63	,	,	PUNC									PUNC	,	PUNC	
+34330	64	вы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom	
+34331	65	пример	ѕ–»ћ≈–	S m inan acc sg			р	е	м	и	р	п	S	ѕ–»ћ≈–	S m inan acc sg	
+34332	66	,	,	PUNC									PUNC	,	PUNC	
+34333	67	вы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom	
+34334	68	об€заны	ќЅя«јЌЌџ…	A - - pl brev - -			ы	н	а	з	€	б	A	ќЅя«јЌЌџ…	A - - pl brev - -	
+34335	69	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+34336	70	говорить	√ќ¬ќ–»“№	V ipf - - inf - -			ь	т	и	р	о	в	V	√ќ¬ќ–»“№	V ipf - - inf - -	
+34337	71	,	,	PUNC									PUNC	,	PUNC	
+34338	72	вы	¬џ	SPRO pl 2p - nom			ы	в					SPRO	¬џ	SPRO pl 2p - nom	
+34339	73	об€заны	ќЅя«јЌЌџ…	A - - pl brev - -			ы	н	а	з	€	б	A	ќЅя«јЌЌџ…	A - - pl brev - -	
+34340	74	правильно	ѕ–ј¬»Ћ№Ќќ	ADV -			о	н	ь	л	и	в	ADV	ѕ–ј¬»Ћ№Ќќ	ADV -	
+34341	75	делать	ƒ≈Ћј“№	V ipf - - inf - -			ь	т	а	л	е	д	V	ƒ≈Ћј“№	V ipf - - inf - -	
+34342	76	ї	ї	PUNC									PUNC	ї	PUNC	
+34343	77	.	.	SENT									SENT	.	SENT	
+34344																
+34345	1	Ё	Ё	INTJ			э						INTJ	Ё	INTJ	
+34346	2	,	,	PUNC									PUNC	,	PUNC	
+34347	3	вот	¬ќ“	PART			т	о	в				PART	¬ќ“	PART	
+34348	4	у	”	PR			у						PR	”	PR	
+34349	5	нас	ћџ	SPRO pl 1p - gen			с	а	н				SPRO	ћџ	SPRO pl 1p - loc	
+34350	6	кулинари€	 ”Ћ»Ќј–»я	S f inan nom sg			€	и	р	а	н	и	S	 ”Ћ»Ќј–»я	S f inan nom sg	
+34351	7	была	Ѕџ“№	V ipf praet sg indic f -			а	л	ы	б			V	Ѕџ“№	V ipf praet sg indic f -	
+34352	8	,	,	PUNC									PUNC	,	PUNC	
+34353	9	э	Ё	INTJ			э						INTJ	Ё	INTJ	
+34354	10	,	,	PUNC									PUNC	,	PUNC	
+34355	11	как	 ј 	CONJ			к	а	к				CONJ	 ј 	CONJ	
+34356	12	один	ќƒ»Ќ	APRO - nom sg plen m -			н	и	д	о			A	ќƒ»Ќ	A - nom sg plen m -	
+34357	13	из	»«	PR			з	и					PR	»«	PR	
+34358	14	предметов	ѕ–≈ƒћ≈“	S m inan gen pl			в	о	т	е	м	д	S	ѕ–≈ƒћ≈“	S m inan gen pl	
+34359	15	,	,	PUNC									PUNC	,	PUNC	
+34360	16	он	ќЌ	SPRO sg 3p m nom			н	о					SPRO	ќЌ	SPRO sg 3p m nom	
+34361	17	приходил	ѕ–»’ќƒ»“№	V ipf praet sg indic m act			л	и	д	о	х	и	V	ѕ–»’ќƒ»“№	V ipf praet sg indic m -	
+34362	18	,	,	PUNC									PUNC	,	PUNC	
+34363	19	<	<	PUNC									PUNC	<	PUNC	
+34364	20	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34365	21	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34366	22	=	=	PUNC									PUNC	=	PUNC	
+34367	23			_											_	
+34368	24	вседа	¬—≈√ƒј	ADV -	distort		а	д	е	с	в		S	¬—≈ƒ	S m inan gen sg	
+34369	25			_											_	
+34370	26	>	>	PUNC									PUNC	>	PUNC	
+34371	27	всегда	¬—≈√ƒј	ADV -			а	д	г	е	с	в	ADV	¬—≈√ƒј	ADV -	
+34372	28	<	<	PUNC									PUNC	<	PUNC	
+34373	29	/	/	PUNC									PUNC	/	PUNC	
+34374	30	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34375	31	>	>	PUNC									PUNC	>	PUNC	
+34376	32	<	<	PUNC									PUNC	<	PUNC	
+34377	33	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34378	34	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34379	35	=	=	PUNC									PUNC	=	PUNC	
+34380	36			_											_	
+34381	37	грил	√ќ¬ќ–»“№	V ipf act praet f indic	distort		л	и	р	г			S	√–»Ћј	S - inan gen pl	
+34382	38			_											_	
+34383	39	>	>	PUNC									PUNC	>	PUNC	
+34384	40	говорил	√ќ¬ќ–»“№	V ipf praet sg indic m -			л	и	р	о	в	о	V	√ќ¬ќ–»“№	V ipf praet sg indic m -	
+34385	41	<	<	PUNC									PUNC	<	PUNC	
+34386	42	/	/	PUNC									PUNC	/	PUNC	
+34387	43	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	6
+34388	44	>	>	PUNC									PUNC	>	PUNC	
+34389	45	:	:	PUNC									PUNC	:	PUNC	
+34390	46	Ђ	Ђ	PUNC									PUNC	Ђ	PUNC	7
+34391	47	ƒевочки	ƒ≈¬ќ„ ј	S f anim nom pl			и	к	ч	о	в	е	S	ƒ≈¬ќ„ ј	S f anim nom sg	
+34392	48	,	,	PUNC									PUNC	,	PUNC	
+34393	49	скатерть	— ј“≈–“№	S f inan nom sg			ь	т	р	е	т	а	S	— ј“≈–“№	S f inan nom sg	27
+34394	50	на	Ќј	PR			а	н					PR	Ќј	PR	
+34395	51	столе	—“ќЋ	S m inan loc sg			е	л	о	т	с		S	—“ќЋ	S m inan loc sg	
+34396	52	может	ћќ„№	V ipf praes sg indic - 3p			т	е	ж	о	м		V	ћќ„№	V ipf praes sg indic - 3p	
+34397	53	быть	Ѕџ“№	V ipf - - inf - -			ь	т	ы	б			V	Ѕџ“№	V ipf - - inf - -	
+34398	54	только	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART	
+34399	55	одного	ќƒ»Ќ	ANUM - gen sg plen m -			о	г	о	н	д	о	A	ќƒ»Ќ	A - gen sg plen m -	
+34400	56	цвета	÷¬≈“	S m inan gen sg			а	т	е	в	ц		S	÷¬≈“	S m inan gen sg	
+34401	57	Ц	Ц	PUNC									PUNC	Ц	PUNC	
+34402	58	бела€	Ѕ≈Ћџ…	A - nom sg plen f -			€	а	л	е	б		A	Ѕ≈Ћџ…	A - nom sg plen f -	
+34403	59	.	.	SENT									SENT	.	SENT	
+34404																
+34405	1	Ќикаких	Ќ» ј ќ…	A - gen pl plen - -			х	и	к	а	к	и	A	Ќ» ј ќ…	A - gen pl plen - -	
+34406	2	других	ƒ–”√ќ…	A - gen pl plen - -			х	и	г	у	р	д	A	ƒ–”√ќ…	A - gen pl plen - -	
+34407	3	<	<	PUNC									PUNC	<	PUNC	
+34408	4	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	
+34409	5	form	FORM	NONLEX									NONLEX	FORM	NONLEX	
+34410	6	=	=	PUNC									PUNC	=	PUNC	
+34411	7			_											_	
+34412	8	вр€нтов	¬ј–»јЌ“	S m inan gen pl	distort		в	о	т	н	€	р	S	¬–яЌ“	S m inan gen pl	
+34413	9			_											_	
+34414	10	>	>	PUNC									PUNC	>	PUNC	
+34415	11	вариантов	¬ј–»јЌ“	S m inan gen pl			в	о	т	н	а	и	S	¬ј–»јЌ“	S m inan gen pl	
+34416	12	<	<	PUNC									PUNC	<	PUNC	
+34417	13	/	/	PUNC									PUNC	/	PUNC	
+34418	14	distinct	DISTINCT	NONLEX									NONLEX	DISTINCT	NONLEX	6
+34419	15	>	>	PUNC									PUNC	>	PUNC	
+34420	16	быть	Ѕџ“№	V ipf - - inf - -			ь	т	ы	б			V	Ѕџ“№	V ipf - - inf - -	
+34421	17	не	Ќ≈	PART			е	н					PART	Ќ≈	PART	
+34422	18	может	ћќ„№	V ipf praes sg indic - 3p			т	е	ж	о	м		V	ћќ„№	V ipf praes sg indic - 3p	
+34423	19	ї	ї	PUNC									PUNC	ї	PUNC	
+34424	20	.	.	SENT									SENT	.	SENT	
+34425																
+34426	1	»менно	»ћ≈ЌЌќ	PART			о	н	н	е	м	и	PART	»ћ≈ЌЌќ	PART	
+34427	2	Е	Е	PUNC									PUNC	Е	PUNC	
+34428	3	и	»	CONJ			и						CONJ	»	CONJ	106
+34429	4	в	¬	PR			в						PR	¬	PR	
+34430	5	речи	–≈„№	S f inan loc sg			и	ч	е	р			S	–≈„№	S f inan gen sg	
+34431	6	:	:	PUNC									PUNC	:	PUNC	
+34432	7	э	Ё	INTJ			э						INTJ	Ё	INTJ	
+34433	8	,	,	PUNC									PUNC	,	PUNC	
+34434	9	речь	–≈„№	S f inan nom sg			ь	ч	е	р			S	–≈„№	S f inan nom sg	
+34435	10	может	ћќ„№	V ipf praes sg indic - 3p			т	е	ж	о	м		V	ћќ„№	V ipf praes sg indic - 3p	
+34436	11	быть	Ѕџ“№	V ipf - - inf - -			ь	т	ы	б			V	Ѕџ“№	V ipf - - inf - -	
+34437	12	только	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART	
+34438	13	правильной	ѕ–ј¬»Ћ№Ќџ…	A - ins sg plen f -			й	о	н	ь	л	и	A	ѕ–ј¬»Ћ№Ќџ…	A - ins sg plen f -	
+34439	14	.	.	SENT									SENT	.	SENT	
+34440																
+34441	1	Ќеважно	Ќ≈¬ј∆Ќќ	ADV -			о	н	ж	а	в	е	ADV	Ќ≈¬ј∆Ќќ	ADV -	
+34442	2	,	,	PUNC									PUNC	,	PUNC	
+34443	3	разговариваешь	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic act 2p			ь	ш	е	а	в	и	V	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic - 2p	
+34444	4	ли	Ћ»	PART			и	л					PART	Ћ»	PART	
+34445	5	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+34446	6	с	—	PR			с						PR	—	PR	10
+34447	7	друзь€ми	ƒ–”√	S m anim ins pl			и	м	€	ь	з	у	S	ƒ–”√	S m anim ins pl	
+34448	8	на	Ќј	PR			а	н					PR	Ќј	PR	
+34449	9	улице	”Ћ»÷ј	S f inan loc sg			е	ц	и	л	у		S	”Ћ»÷ј	S f inan loc sg	
+34450	10	,	,	PUNC									PUNC	,	PUNC	
+34451	11	разговариваешь	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic act 2p			ь	ш	е	а	в	и	V	–ј«√ќ¬ј–»¬ј“№	V ipf praes sg indic - 2p	26
+34452	12	ли	Ћ»	PART			и	л					PART	Ћ»	PART	
+34453	13	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+34454	14	,	,	PUNC									PUNC	,	PUNC	
+34455	15	ээ	Ё	INTJ			э	э					NONLEX	ЁЁ	NONLEX	
+34456	16	,	,	PUNC									PUNC	,	PUNC	
+34457	17	в	¬	PR			в						PR	¬	PR	
+34458	18	школе	Ў ќЋј	S f inan loc sg			е	л	о	к	ш		S	Ў ќЋј	S f inan loc sg	
+34459	19	,	,	PUNC									PUNC	,	PUNC	
+34460	20	говоришь	√ќ¬ќ–»“№	V ipf praes sg indic - 2p			ь	ш	и	р	о	в	V	√ќ¬ќ–»“№	V ipf praes sg indic - 2p	
+34461	21	ли	Ћ»	PART			и	л					PART	Ћ»	PART	
+34462	22	ты	“џ	SPRO sg 2p - nom			ы	т					SPRO	“џ	SPRO sg 2p - nom	
+34463	23	,	,	PUNC									PUNC	,	PUNC	
+34464	24	э...	Ё	INTJ						э			S	Ё...	S - - nonflex nonflex	
+34465	25	о	ќ	PR			о						PR	ќ	PR	
+34466	26	чем-то	„“ќ-“ќ	SPRO n - ins sg			о	т		м	е	ч	S	„“ќ-“ќ	S n - ins sg	30
+34467	27	с	—	PR			с						PR	—	PR	
+34468	28	людьми	„≈Ћќ¬≈ 	S m anim ins pl			и	м	ь	д	ю	л	S	„≈Ћќ¬≈ 	S m anim ins pl	
+34469	29	в	¬	PR			в						PR	¬	PR	
+34470	30	транспорте	“–јЌ—ѕќ–“	S m inan loc sg			е	т	р	о	п	с	S	“–јЌ—ѕќ–“	S m inan loc sg	
+34471	31	или	»Ћ»	CONJ			и	л	и				CONJ	»Ћ»	CONJ	
+34472	32	где-то	√ƒ≈-“ќ	ADV -			о	т		е	д	г	ADV	√ƒ≈-“ќ	ADV -	
+34473	33	еще	≈ў≈	ADV -			е	щ	е				ADV	≈ў≈	ADV -	
+34474	34	,	,	PUNC									PUNC	,	PUNC	
+34475	35	речь	–≈„№	S f inan nom sg			ь	ч	е	р			S	–≈„№	S f inan nom sg	7
+34476	36	может	ћќ„№	V ipf praes sg indic - 3p			т	е	ж	о	м		V	ћќ„№	V ipf praes sg indic - 3p	
+34477	37	быть	Ѕџ“№	V ipf - - inf - -			ь	т	ы	б			V	Ѕџ“№	V ipf - - inf - -	
+34478	38	только	“ќЋ№ ќ	PART			о	к	ь	л	о	т	PART	“ќЋ№ ќ	PART	
+34479	39	одной	ќƒ»Ќ	ANUM - gen sg plen f -			й	о	н	д	о		A	ќƒ»Ќ	A - gen sg plen f -	
+34480	40	Ц	Ц	PUNC									PUNC	Ц	PUNC	
+34481	41	правильной	ѕ–ј¬»Ћ№Ќџ…	A - ins sg plen f -			й	о	н	ь	л	и	A	ѕ–ј¬»Ћ№Ќџ…	A - ins sg plen f -	
+34482	42	русской	–”—— »…	A - ins sg plen f -			й	о	к	с	с	у	A	–”—— »…	A - ins sg plen f -	
+34483	43	речью	–≈„№	S f inan ins sg			ю	ь	ч	е	р		S	–≈„№	S f inan ins sg	
+34484	44	.	.	SENT									SENT	.	SENT	
